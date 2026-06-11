@@ -1,0 +1,1809 @@
+customer_id,signup_date,customer_segment,home_region,preferred_channel,age,email_opt_in
+C00001,2022-11-17,Premium,Southeast,Online,40.0,Y
+C00002,2022-11-25,Regular,West,Mobile App,27.0,Y
+C00003,2024-02-24,Budget,West,Online,52.0,Y
+C00004,2024-02-16,Budget,Southeast,Online,38.0,Y
+C00005,2024-06-29,Budget,Southeast,Mobile App,18.0,N
+C00006,2025-01-23,Premium,Southeast,Mobile App,41.0,N
+C00007,2022-11-14,Regular,Southeast,Online,44.0,Y
+C00008,2022-08-24,Loyal,Northeast,In-Store,62.0,N
+C00009,2022-11-30,Premium,West,Online,43.0,Y
+C00010,2023-01-11,Budget,Northeast,Online,20.0,N
+C00011,2025-03-06,Regular,Southeast,In-Store,,Y
+C00012,2023-08-11,Regular,Northeast,Online,53.0,N
+C00013,2023-05-28,Regular,West,Online,28.0,Y
+C00014,2024-07-06,Premium,Southwest,Mobile App,19.0,Y
+C00015,2024-05-22,Premium,West,Mobile App,50.0,Y
+C00016,2025-06-06,Premium,Southwest,Online,32.0,Y
+C00017,2022-09-27,Budget,Southeast,In-Store,49.0,Y
+C00018,2024-03-08,Budget,Southeast,Online,27.0,Y
+C00019,2023-12-26,Premium,Southwest,Mobile App,56.0,N
+C00020,2025-04-03,Budget,Southeast,Online,48.0,N
+C00021,2022-01-05, regular,Midwest,Online,29.0,N
+C00022,2024-04-30,Budget,Northeast,Online,18.0,N
+C00023,2022-03-19,Regular,Northeast,Online,66.0,N
+C00024,2023-07-28,Budget,Midwest,Online,35.0,Y
+C00025,2022-05-12,Regular,Midwest,In-Store,29.0,Y
+C00026,2023-08-24,Loyal,Southwest,In-Store,55.0,N
+C00027,2024-12-01,Budget,,Online,49.0,N
+C00028,2022-03-30,Budget,Midwest,Online,52.0,Y
+C00029,2023-02-06,Regular,Northeast,Online,37.0,Y
+C00030,2022-10-23,Premium,Northeast,Mobile App,61.0,Y
+C00031,2023-09-08,Budget,Southeast,Mobile App,22.0,N
+C00032,2024-03-10,Regular,Northeast,Mobile App,31.0,Y
+C00033,2023-02-26,Budget,Northeast,Mobile App,43.0,N
+C00034,2024-11-12,Premium,Southeast,Online,52.0,N
+C00035,2023-07-29,Regular,Southeast,Online,46.0,Y
+C00036,2022-05-23,Premium,Northeast,In-Store,37.0,Y
+C00037,2024-09-19,Loyal,Northeast,Mobile App,32.0,Y
+C00038,2023-10-27,Budget,Northeast,Online,52.0,Y
+C00039,2022-05-25,Premium,Northeast,Online,47.0,Y
+C00040,2025-06-02,Budget,Midwest,Mobile App,28.0,N
+C00041,2024-10-03,Loyal,Southeast,Online,27.0,Y
+C00042,2023-05-18,Regular,Southeast,Online,31.0,Y
+C00043,2024-03-31,Premium,Southeast,In-Store,30.0,Y
+C00044,2022-04-14,Budget,Southwest,Online,50.0,N
+C00045,2024-11-28,Budget,West,online,43.0,Y
+C00046,2022-07-17,Regular,Southwest,In-Store,45.0,N
+C00047,2023-08-02,Regular,Southwest,In-Store,40.0,Y
+C00048,2023-01-26,Budget,Midwest,Mobile App,41.0,Y
+C00049,2025-04-17,Regular,Southwest,Online,19.0,Y
+C00050,2023-07-08,Budget,Midwest,Online,48.0,Y
+C00051,2024-11-04,Regular,Northeast,In-Store,31.0,Y
+C00052,2023-04-23,Premium,Northeast,In-Store,38.0,Y
+C00053,2025-06-08,Regular,Southeast,Online,32.0,Y
+C00054,2024-07-11,Budget,,In-Store,40.0,Y
+C00055,2023-02-24,Regular,Midwest,Online,45.0,N
+C00056,2022-06-06,Budget,Southwest,Online,26.0,N
+C00057,2023-07-04,Loyal,Southeast,Online,41.0,Y
+C00058,2025-01-25,Budget,Southeast,Online,33.0,Y
+C00059,2024-10-17,Premium,Northeast,Online,54.0,N
+C00060,2024-09-23,Loyal,Northeast,In-Store,25.0,N
+C00061,2024-08-08,Premium,West,In-Store,26.0,N
+C00062,2022-10-16,Regular,Midwest,Mobile App,34.0,Y
+C00063,2022-07-15,Premium,Southeast,Online,27.0,N
+C00064,2023-08-21,Loyal,West,Online,35.0,Y
+C00065,2023-06-01,Regular,Southeast,Online,32.0,Y
+C00066,2024-05-14,Regular,West,Online,39.0,N
+C00067,2025-02-15,Regular,Southeast,In-Store,50.0,Y
+C00068,2024-03-16,Regular,Southeast,In-Store,39.0,Y
+C00069,2025-03-28,Regular,Southeast,In-Store,40.0,Y
+C00070,2024-03-25,Regular,Northeast,Online,25.0,N
+C00071,2022-08-16,Budget,Northeast,Online,36.0,Y
+C00072,2022-08-04,Budget,Southwest,In-Store,33.0,Y
+C00073,2024-08-05,Budget,West,Online,46.0,Y
+C00074,2022-01-15,Budget,Southwest,In-Store,29.0,Y
+C00075,2025-03-26,Budget,Northeast,Mobile App,28.0,N
+C00076,2025-03-26,Regular,Midwest,Online,42.0,Y
+C00077,2022-02-16,Regular,Northeast,In-Store,62.0,Y
+C00078,2022-11-20,Premium,Northeast,In-Store,36.0,N
+C00079,2024-04-23,Budget,Southwest,Online,40.0,Y
+C00080,2022-05-10,Budget,Midwest,In-Store,49.0,Y
+C00081,2022-04-05,Premium,Northeast,Online,44.0,N
+C00082,2023-09-19,Regular,Northeast,Online,44.0,Y
+C00083,2024-01-25,Budget,West,In-Store,37.0,Y
+C00084,2024-03-04,Premium,Northeast,Mobile App,37.0,N
+C00085,2022-03-10,Premium,Midwest,Online,29.0,N
+C00086,2022-01-11,Regular,Midwest,Online,44.0,N
+C00087,2024-05-21,Regular,Northeast,Mobile App,44.0,N
+C00088,2023-07-04,Loyal,Northeast,Mobile App,47.0,N
+C00089,2025-03-03,Regular,Southeast,In-Store,32.0,N
+C00090,2023-12-13,Regular,Southwest,Online,48.0,N
+C00091,2022-01-23,Premium,Midwest,Mobile App,52.0,Y
+C00092,2024-03-25,Regular,Midwest,online,23.0,Y
+C00093,2022-12-12,Regular,West,In-Store,34.0,N
+C00094,2022-10-29,Budget,Southwest,Online,52.0,Y
+C00095,2022-12-29,Premium,Southeast,In-Store,30.0,Y
+C00096,2023-01-31,Regular,Midwest,Online,44.0,Y
+C00097,2022-08-06,Regular,Midwest,Online,38.0,Y
+C00098,2022-05-21,Budget,Southwest,Online,42.0,Y
+C00099,2024-08-15,Budget,Midwest,Online,38.0,N
+C00100,2025-05-18,Regular,Southwest,In-Store,47.0,N
+C00101,2024-09-11,Premium,Northeast,online,26.0,N
+C00102,2024-09-19,Regular,Southeast,Mobile App,27.0,N
+C00103,2024-04-07,Budget,Southeast,Online,56.0,Y
+C00104,2023-11-14,Premium,Northeast,In-Store,63.0,Y
+C00105,2024-09-30,Budget,Northeast,In-Store,38.0,Y
+C00106,2022-12-22,Loyal,Midwest,Online,59.0,Y
+C00107,2024-10-04,Budget,Midwest,Online,29.0,Y
+C00108,2025-03-02,Regular,Southeast,In-Store,,Y
+C00109,2024-06-06,Budget,Midwest,Mobile App,55.0,Y
+C00110,2022-05-07,Loyal,Midwest,In-Store,48.0,Y
+C00111,2025-02-03,Regular,Northeast,Online,57.0,N
+C00112,2024-10-05,Budget,Southwest,In-Store,44.0,Y
+C00113,2023-08-27,Regular,Southwest,Online,26.0,Y
+C00114,2024-10-10,Budget,Southwest,In-Store,41.0,Y
+C00115,2022-02-20,Budget,Midwest,In-Store,52.0,Y
+C00116,2024-11-18,Loyal,Midwest,Online,36.0,Y
+C00117,2024-02-18,Regular,Northeast,Mobile App,35.0,Y
+C00118,2024-03-24,Premium,Southeast,Online,44.0,Y
+C00119,2023-02-24,Regular,Northeast,Mobile App,31.0,N
+C00120,2025-04-20,Regular,West,Online,42.0,Y
+C00121,2024-09-09,Budget,Northeast,Online,39.0,N
+C00122,2024-04-04,Budget,Northeast,Online,32.0,N
+C00123,2024-10-21,Premium,West,Online,50.0,Y
+C00124,2023-07-21,Loyal,West,Online,46.0,N
+C00125,2023-01-06,Budget,Southwest,In-Store,34.0,Y
+C00126,2024-07-24,Budget,Northeast,In-Store,38.0,Y
+C00127,2023-10-23,Regular,Northeast,In-Store,35.0,N
+C00128,2024-08-26,Loyal,Southeast,Online,30.0,N
+C00129,2025-03-06,Budget,Northeast,In-Store,18.0,Y
+C00130,2022-07-21,Regular,Northeast,online,32.0,N
+C00131,2022-11-09,Loyal,Midwest,In-Store,31.0,N
+C00132,2022-04-27,Budget,West,Online,39.0,N
+C00133,2024-07-25,Budget,Southeast,Mobile App,43.0,Y
+C00134,2023-07-29,Regular,Southwest,In-Store,28.0,N
+C00135,2022-09-01,Loyal,Southwest,In-Store,42.0,Y
+C00136,2023-06-21,Budget,Southeast,Online,27.0,Y
+C00137,2022-03-16,Regular,Southwest,Online,36.0,N
+C00138,2023-01-21,Regular,Northeast,Online,31.0,N
+C00139,2025-05-18,Regular,Northeast,Mobile App,47.0,Y
+C00140,2023-04-20, regular,Southwest,Mobile App,39.0,Y
+C00141,2023-02-22,Regular,Northeast,Online,,Y
+C00142,2022-12-13,Regular,West,In-Store,30.0,Y
+C00143,2023-10-02,Regular,Northeast,In-Store,34.0,Y
+C00144,2024-07-27,Regular,Midwest,In-Store,,Y
+C00145,2024-08-12,Regular,Southeast,Online,32.0,Y
+C00146,2024-05-25, regular,Northeast,Online,44.0,N
+C00147,2024-02-02,Budget,Northeast,Online,37.0,Y
+C00148,2025-04-17,Premium,Midwest,Mobile App,43.0,N
+C00149,2025-04-20,Premium,West,Online,48.0,N
+C00150,2023-10-26,Regular,West,In-Store,34.0,Y
+C00151,2022-01-25,Regular,Midwest,Mobile App,47.0,Y
+C00152,2025-04-18,Regular,Southwest,In-Store,71.0,Y
+C00153,2023-12-11,Budget,Southwest,Mobile App,45.0,N
+C00154,2025-03-30,Regular,Southwest,Online,,Y
+C00155,2022-06-26,Budget,Midwest,Online,44.0,Y
+C00156,2022-10-12,Budget,Midwest,Mobile App,27.0,Y
+C00157,2022-03-04,Premium,West,Online,41.0,Y
+C00158,2024-09-29,Regular,Southeast,Online,34.0,Y
+C00159,2023-10-24,Premium,West,Online,31.0,N
+C00160,2023-10-28,Regular,Midwest,Online,37.0,Y
+C00161,2022-06-05,Premium,Northeast,Online,36.0,N
+C00162,2024-12-08,Regular,Northeast,Mobile App,25.0,N
+C00163,2024-08-24,Budget,Southeast,Mobile App,71.0,Y
+C00164,2024-04-28,Regular,Midwest,Mobile App,48.0,Y
+C00165,2025-01-12,Budget,West,Online,41.0,N
+C00166,2023-11-20,Regular,Northeast,Online,39.0,N
+C00167,2022-05-28,Loyal,West,Online,52.0,Y
+C00168,2022-12-08,Budget,West,Mobile App,63.0,N
+C00169,2023-04-21,Regular,Northeast,Online,46.0,Y
+C00170,2024-12-22,Premium,West,In-Store,39.0,Y
+C00171,2023-07-15,Loyal,West,In-Store,56.0,Y
+C00172,2022-11-23,Regular,Southwest,Online,40.0,Y
+C00173,2025-03-10,Budget,Southwest,Online,43.0,Y
+C00174,2024-09-16,Regular,West,Mobile App,50.0,Y
+C00175,2022-08-03,Regular,Midwest,Mobile App,33.0,Y
+C00176,2023-03-11,Premium,Southeast,Online,18.0,Y
+C00177,2024-08-09,Loyal,West,Online,33.0,N
+C00178,2023-12-24, regular,Midwest,Mobile App,47.0,N
+C00179,2022-02-01,Premium,Midwest,Online,46.0,N
+C00180,2023-11-01,Budget,Southeast,Online,54.0,Y
+C00181,2022-10-12, regular,Southwest,Online,33.0,Y
+C00182,2023-03-05,Premium,Northeast,In-Store,57.0,Y
+C00183,2022-10-13,Budget,,Online,40.0,Y
+C00184,2025-03-13,Premium,Southeast,Online,45.0,Y
+C00185,2024-11-08,Budget,Northeast,Online,49.0,N
+C00186,2022-01-18,Regular,Midwest,In-Store,21.0,N
+C00187,2024-02-08,Premium,Northeast,Mobile App,26.0,Y
+C00188,2023-08-13,Regular,Southwest,Mobile App,26.0,N
+C00189,2025-04-13,Budget,West,Mobile App,51.0,Y
+C00190,2024-10-06,Regular,West,In-Store,34.0,Y
+C00191,2022-07-13,Regular,Northeast,Online,62.0,N
+C00192,2023-05-17,Loyal,Northeast,Online,38.0,Y
+C00193,2024-09-14,Regular,West,Mobile App,20.0,Y
+C00194,2025-02-10,Regular,West,Online,30.0,N
+C00195,2022-04-24,Premium,Midwest,Online,39.0,N
+C00196,2025-05-30,Regular,Midwest,In-Store,44.0,N
+C00197,2024-08-04,Regular,Southeast,Online,26.0,N
+C00198,2024-04-10,Regular,West,Online,45.0,N
+C00199,2024-07-13,Loyal,Southwest,Mobile App,48.0,Y
+C00200,2022-02-24,Regular,Southeast,Mobile App,30.0,Y
+C00201,2024-03-10,Regular,Southeast,Online,,Y
+C00202,2024-02-17,Budget,West,Mobile App,32.0,Y
+C00203,2022-06-11,Budget,Northeast,In-Store,26.0,Y
+C00204,2022-03-28,Budget,Southeast,In-Store,20.0,Y
+C00205,2022-02-24,Budget,Midwest,Online,53.0,Y
+C00206,2025-04-16,Regular,Northeast,Online,38.0,Y
+C00207,2024-10-28,Premium,Northeast,In-Store,32.0,N
+C00208,2024-04-12,Regular,,Mobile App,20.0,Y
+C00209,2022-11-09,Premium,West,In-Store,33.0,Y
+C00210,2024-01-29,Loyal,,Online,67.0,N
+C00211,2023-03-19,Premium,West,Online,18.0,N
+C00212,2022-11-24,Regular,Midwest,Mobile App,30.0,Y
+C00213,2024-12-13,Regular,West,Online,60.0,Y
+C00214,2024-01-31,Regular,Southeast,In-Store,53.0,Y
+C00215,2025-06-16,Budget,Southwest,Online,31.0,Y
+C00216,2025-06-06,Regular,West,Online,40.0,Y
+C00217,2023-08-02,Loyal,Northeast,In-Store,44.0,Y
+C00218,2024-12-10,Premium,Southeast,In-Store,40.0,Y
+C00219,2024-10-03,Budget,Midwest,Online,59.0,Y
+C00220,2022-04-06,Regular,Northeast,Online,42.0,Y
+C00221,2025-01-16,Premium,Northeast,Mobile App,52.0,N
+C00222,2025-01-06,Budget,West,Online,40.0,N
+C00223,2025-02-17,Regular,West,In-Store,18.0,Y
+C00224,2024-03-24,Premium,Southeast,Mobile App,24.0,Y
+C00225,2023-05-06,Regular,Northeast,Online,26.0,Y
+C00226,2023-03-28,Budget,Northeast,Mobile App,35.0,Y
+C00227,2022-06-14,Regular,West,Online,63.0,Y
+C00228,2022-07-01,Premium,Midwest,In-Store,42.0,Y
+C00229,2023-04-14,Regular,Southeast,Online,37.0,Y
+C00230,2024-06-28,Budget,Midwest,Mobile App,53.0,Y
+C00231,2024-01-05,Regular,Southeast,Online,21.0,Y
+C00232,2024-04-02,Regular,Midwest,Online,32.0,Y
+C00233,2024-08-01,Regular,West,Mobile App,30.0,Y
+C00234,2022-01-07,Premium,Midwest,In-Store,43.0,Y
+C00235,2022-11-26,Budget,Southwest,online,49.0,Y
+C00236,2024-02-14,Loyal,Southeast,Online,44.0,Y
+C00237,2022-05-31,Budget,Southwest,In-Store,44.0,Y
+C00238,2025-01-13,Regular,Southwest,Online,34.0,Y
+C00239,2022-05-27,Budget,Northeast,Online,42.0,Y
+C00240,2024-07-03,Regular,Midwest,In-Store,28.0,Y
+C00241,2023-12-01,Regular,Southeast,Online,46.0,Y
+C00242,2022-03-23,Regular,West,Mobile App,32.0,Y
+C00243,2023-05-29,Budget,Southeast,Mobile App,25.0,Y
+C00244,2024-03-25,Regular,West,In-Store,38.0,N
+C00245,2023-12-10,Budget,Northeast,Mobile App,18.0,N
+C00246,2024-01-16,Premium,Southwest,In-Store,56.0,N
+C00247,2024-10-19,Loyal,Southwest,online,,Y
+C00248,2023-12-08,Regular,Southwest,In-Store,42.0,N
+C00249,2023-04-16,Regular,Southeast,Online,19.0,N
+C00250,2025-02-16,Regular,Midwest,Online,30.0,Y
+C00251,2023-01-31,Budget,Southwest,Mobile App,38.0,Y
+C00252,2022-09-18,Regular,Southeast,In-Store,35.0,N
+C00253,2024-03-15,Premium,Northeast,Mobile App,18.0,Y
+C00254,2024-07-22,Regular,Midwest,Online,22.0,N
+C00255,2024-06-23,Budget,Midwest,In-Store,35.0,Y
+C00256,2025-06-03,Premium,Southeast,Online,23.0,Y
+C00257,2024-12-12,Regular,Southeast,In-Store,54.0,Y
+C00258,2024-07-28,Premium,Southeast,In-Store,44.0,Y
+C00259,2024-05-03,Regular,Southwest,In-Store,28.0,Y
+C00260,2023-08-16,Regular,Southwest,Online,52.0,Y
+C00261,2023-12-15,Budget,West,Online,50.0,Y
+C00262,2025-03-27,Budget,West,Online,41.0,Y
+C00263,2023-09-24,Loyal,Midwest,In-Store,38.0,Y
+C00264,2022-02-28,Budget,Northeast,Mobile App,34.0,N
+C00265,2022-05-08,Loyal,Northeast,Online,32.0,Y
+C00266,2024-01-06,Regular,Southeast,In-Store,22.0,Y
+C00267,2023-12-22,Budget,,Mobile App,56.0,Y
+C00268,2025-02-12,Budget,Midwest,In-Store,32.0,Y
+C00269,2025-05-17,Budget,Southeast,In-Store,38.0,N
+C00270,2023-06-10,Loyal,Southeast,Mobile App,27.0,N
+C00271,2023-06-05,Regular,Midwest,Online,35.0,Y
+C00272,2023-07-06,Regular,Southwest,Online,72.0,Y
+C00273,2022-08-25,Regular,Northeast,Online,29.0,N
+C00274,2025-05-09,Budget,West,Mobile App,55.0,N
+C00275,2025-06-12, regular,Midwest,Mobile App,38.0,N
+C00276,2023-05-09,Budget,Northeast,In-Store,46.0,N
+C00277,2022-01-04,Premium,West,Online,53.0,Y
+C00278,2023-10-28,Regular,Northeast,Online,41.0,Y
+C00279,2023-03-18,Regular,West,Online,34.0,Y
+C00280,2022-01-29,Regular,West,Online,36.0,Y
+C00281,2025-02-06,Regular,Southwest,In-Store,36.0,Y
+C00282,2023-09-02,Loyal,Southwest,Mobile App,60.0,Y
+C00283,2024-03-15,Regular,Southeast,Mobile App,20.0,Y
+C00284,2022-03-16,Budget,West,In-Store,18.0,Y
+C00285,2024-04-17,Regular,Midwest,Online,18.0,Y
+C00286,2025-03-15,Budget,Southwest,Online,27.0,Y
+C00287,2022-05-08,Budget,West,Online,46.0,Y
+C00288,2022-02-11,Loyal,West,In-Store,47.0,N
+C00289,2022-02-10,Premium,West,Mobile App,31.0,N
+C00290,2024-07-22,Loyal,Southeast,Online,38.0,Y
+C00291,2022-02-03,Regular,West,Online,25.0,Y
+C00292,2024-11-06,Regular,Midwest,Online,26.0,Y
+C00293,2025-03-22,Budget,West,Online,45.0,Y
+C00294,2024-09-24,Budget,Southwest,Online,51.0,Y
+C00295,2023-08-11,Premium,Southeast,Online,32.0,Y
+C00296,2022-12-08,Regular,Southeast,Online,58.0,N
+C00297,2022-01-27,Premium,Midwest,Mobile App,50.0,Y
+C00298,2023-10-08,Premium,Southwest,In-Store,57.0,Y
+C00299,2024-01-01,Budget,Southeast,Online,34.0,Y
+C00300,2022-06-17,Regular,Midwest,Online,56.0,Y
+C00301,2023-09-02,Regular,Southeast,Online,64.0,Y
+C00302,2022-09-25,Budget,West,Online,33.0,N
+C00303,2024-03-31,Premium,Midwest,Online,36.0,Y
+C00304,2023-03-31,Regular,Northeast,In-Store,27.0,N
+C00305,2024-06-24,Budget,Northeast,In-Store,24.0,Y
+C00306,2024-07-10,Regular,Northeast,In-Store,24.0,Y
+C00307,2024-09-07,Loyal,Midwest,Online,,Y
+C00308,2023-12-03,Budget,Northeast,Mobile App,41.0,Y
+C00309,2023-09-26,Premium,Northeast,Online,29.0,Y
+C00310,2022-05-10,Budget,West,Online,41.0,Y
+C00311,2024-10-16,Premium,West,In-Store,41.0,N
+C00312,2024-03-29,Premium,,In-Store,32.0,Y
+C00313,2023-11-24,Regular,West,Mobile App,37.0,Y
+C00314,2024-03-04,Regular,Northeast,In-Store,32.0,Y
+C00315,2022-01-29,Premium,Midwest,Mobile App,34.0,Y
+C00316,2022-05-29,Regular,Midwest,Mobile App,28.0,Y
+C00317,2022-01-11,Premium,Midwest,In-Store,39.0,Y
+C00318,2023-11-07,Budget,Southeast,In-Store,31.0,Y
+C00319,2025-02-10,Premium,Midwest,In-Store,24.0,Y
+C00320,2022-07-06,Premium,Southeast,Mobile App,45.0,Y
+C00321,2024-03-17,Loyal,Southwest,In-Store,46.0,Y
+C00322,2024-01-14,Budget,Northeast,Online,51.0,Y
+C00323,2025-06-04,Regular,Northeast,In-Store,26.0,N
+C00324,2022-04-08,Regular,Northeast,Online,32.0,N
+C00325,2022-02-24,Regular,Southeast,Online,41.0,Y
+C00326,2023-09-15,Regular,Midwest,Online,32.0,Y
+C00327,2023-10-26,Budget,Northeast,In-Store,45.0,N
+C00328,2024-01-28,Premium,West,Mobile App,44.0,Y
+C00329,2023-02-10,Regular,Southeast,Online,44.0,Y
+C00330,2022-03-10,Budget,Northeast,Online,56.0,N
+C00331,2024-01-21,Regular,Southwest,Online,46.0,Y
+C00332,2025-03-17,Regular,Northeast,In-Store,40.0,N
+C00333,2025-06-21,Budget,Midwest,Online,36.0,N
+C00334,2024-08-15,Loyal,Southwest,Online,37.0,Y
+C00335,2022-12-31,Loyal,Northeast,Online,25.0,N
+C00336,2023-04-27,Regular,Northeast,In-Store,18.0,Y
+C00337,2022-07-20,Budget,Southeast,Online,44.0,Y
+C00338,2022-06-03,Premium,Northeast,In-Store,53.0,N
+C00339,2022-03-14,Regular,Northeast,Online,34.0,N
+C00340,2023-12-14,Regular,Southeast,In-Store,57.0,N
+C00341,2022-10-23,Regular,Southeast,Online,36.0,N
+C00342,2024-11-06,Regular,Midwest,In-Store,18.0,N
+C00343,2025-05-25,Regular,Southwest,Online,49.0,N
+C00344,2022-03-02,Regular,Midwest,In-Store,32.0,Y
+C00345,2024-07-27,Regular,Northeast,Mobile App,50.0,Y
+C00346,2022-02-11,Loyal,Northeast,Mobile App,23.0,N
+C00347,2022-01-25,Regular,West,In-Store,43.0,Y
+C00348,2024-11-28,Premium,Midwest,Online,28.0,Y
+C00349,2022-05-11,Loyal,West,Mobile App,40.0,Y
+C00350,2025-06-06,Regular,Southeast,In-Store,47.0,N
+C00351,2022-04-18,Regular,Midwest,Online,44.0,N
+C00352,2022-06-21,Regular,Midwest,Mobile App,39.0,Y
+C00353,2022-04-12,Regular,Southeast,Online,21.0,Y
+C00354,2024-05-15,Premium,Midwest,Online,47.0,Y
+C00355,2023-06-08,Regular,Midwest,Online,50.0,Y
+C00356,2022-10-02,Loyal,Northeast,Online,25.0,Y
+C00357,2024-12-03,Budget,Southeast,In-Store,27.0,Y
+C00358,2024-03-27,Budget,Southwest,Online,51.0,Y
+C00359,2024-08-14,Regular,West,Online,35.0,Y
+C00360,2024-11-06,Regular,Southeast,Online,28.0,Y
+C00361,2022-11-26,Budget,Southeast,In-Store,41.0,Y
+C00362,2022-01-12,Regular,Northeast,In-Store,30.0,N
+C00363,2022-08-04,Budget,Southwest,online,40.0,Y
+C00364,2022-12-05,Budget,Southeast,Online,33.0,Y
+C00365,2023-10-23,Loyal,West,Online,34.0,Y
+C00366,2025-01-09,Budget,Southeast,Mobile App,51.0,Y
+C00367,2023-01-09,Premium,Southeast,In-Store,18.0,Y
+C00368,2024-09-02,Premium,Midwest,Online,45.0,Y
+C00369,2023-12-11,Loyal,West,Online,49.0,Y
+C00370,2025-05-08,Budget,Midwest,In-Store,31.0,Y
+C00371,2023-04-11,Premium,Southeast,In-Store,49.0,N
+C00372,2025-01-17,Regular,West,Online,26.0,Y
+C00373,2023-05-04,Regular,Northeast,Online,30.0,Y
+C00374,2022-02-16,Regular,West,Online,29.0,N
+C00375,2024-02-17,Premium,Northeast,Mobile App,49.0,Y
+C00376,2024-11-05,Regular,Southwest,Mobile App,18.0,N
+C00377,2023-12-12,Premium,Midwest,In-Store,58.0,N
+C00378,2023-02-05,Regular,Southeast,In-Store,34.0,Y
+C00379,2024-09-07,Premium,West,Online,45.0,N
+C00380,2025-01-14,Loyal,Northeast,In-Store,44.0,N
+C00381,2022-09-07,Budget,Northeast,In-Store,40.0,N
+C00382,2023-01-26,Loyal,Midwest,Online,31.0,Y
+C00383,2022-12-01,Budget,Southeast,Mobile App,53.0,Y
+C00384,2023-09-21,Budget,Midwest,Online,32.0,N
+C00385,2022-05-17, regular,Northeast,Online,29.0,Y
+C00386,2024-06-01,Regular,,In-Store,49.0,Y
+C00387,2023-11-19,Regular,Northeast,In-Store,40.0,Y
+C00388,2024-04-06,Budget,Northeast,In-Store,54.0,Y
+C00389,2023-12-28,Budget,Midwest,Online,37.0,Y
+C00390,2023-08-17,Loyal,Southwest,Mobile App,30.0,N
+C00391,2025-05-31,Premium,West,In-Store,41.0,N
+C00392,2024-09-16,Premium,West,Online,33.0,Y
+C00393,2023-01-07,Loyal,Northeast,Mobile App,31.0,N
+C00394,2024-07-23,Premium,Midwest,In-Store,48.0,N
+C00395,2024-09-21,Budget,Northeast,Online,60.0,Y
+C00396,2023-02-06,Regular,Southeast,In-Store,35.0,Y
+C00397,2023-09-07,Premium,Midwest,Online,26.0,N
+C00398,2025-03-28,Regular,Northeast,Online,36.0,Y
+C00399,2025-03-21,Regular,Northeast,online,44.0,N
+C00400,2024-09-21,Budget,West,Mobile App,41.0,N
+C00401,2023-09-12,Regular,Midwest,Online,,Y
+C00402,2022-07-07,Regular,Midwest,In-Store,46.0,Y
+C00403,2025-01-26,Regular,Northeast,Online,25.0,Y
+C00404,2022-05-11,Regular,Southeast,In-Store,32.0,Y
+C00405,2024-03-15,Regular,West,In-Store,21.0,Y
+C00406,2025-04-09,Budget,Northeast,In-Store,52.0,N
+C00407,2024-07-24,Budget,Southeast,Online,18.0,Y
+C00408,2024-09-12,Premium,Northeast,online,23.0,N
+C00409,2022-07-02,Regular,Midwest,Mobile App,32.0,Y
+C00410,2024-09-09,Budget,Northeast,In-Store,45.0,N
+C00411,2022-12-30,Premium,West,In-Store,32.0,Y
+C00412,2022-02-08,Budget,West,online,34.0,N
+C00413,2023-05-12,Regular,Southwest,Online,34.0,N
+C00414,2024-09-08,Budget,Southeast,In-Store,40.0,Y
+C00415,2024-07-09,Premium,West,Mobile App,23.0,N
+C00416,2023-12-23,Regular,Midwest,Online,27.0,Y
+C00417,2025-03-30,Budget,Southeast,Online,,Y
+C00418,2022-01-16,Premium,Midwest,Online,43.0,Y
+C00419,2023-05-08,Regular,Northeast,In-Store,47.0,N
+C00420,2025-02-05,Regular,Northeast,In-Store,39.0,Y
+C00421,2024-06-12,Budget,Southwest,Online,36.0,Y
+C00422,2022-11-07,Budget,Southeast,Online,43.0,N
+C00423,2024-01-09,Budget,Midwest,Online,47.0,N
+C00424,2025-04-08,Regular,Southeast,Online,48.0,Y
+C00425,2023-06-30,Premium,West,Online,36.0,Y
+C00426,2023-02-18,Regular,West,Mobile App,49.0,Y
+C00427,2022-09-08,Budget,West,Online,18.0,N
+C00428,2024-01-29,Budget,Southeast,Mobile App,49.0,N
+C00429,2025-03-10,Budget,Northeast,In-Store,33.0,Y
+C00430,2024-11-28,Regular,Midwest,Online,45.0,Y
+C00431,2024-03-24,Premium,Northeast,In-Store,30.0,Y
+C00432,2022-01-29,Budget,Northeast,In-Store,22.0,N
+C00433,2024-08-15,Premium,Midwest,In-Store,42.0,Y
+C00434,2023-04-22,Premium,Midwest,Online,20.0,Y
+C00435,2022-11-14,Regular,West,Online,33.0,Y
+C00436,2022-09-02,Premium,Northeast,Online,28.0,Y
+C00437,2024-01-18,Regular,Southeast,Online,36.0,Y
+C00438,2023-11-28,Regular,Northeast,Online,48.0,Y
+C00439,2022-09-29,Regular,West,Online,32.0,N
+C00440,2025-06-16,Regular,Southwest,Online,42.0,Y
+C00441,2023-01-12,Budget,West,Online,47.0,Y
+C00442,2022-09-23,Regular,West,Online,31.0,N
+C00443,2024-07-14,Regular,Midwest,Online,31.0,Y
+C00444,2024-07-09,Regular,Midwest,Mobile App,54.0,Y
+C00445,2022-12-06,Budget,Southeast,Online,37.0,Y
+C00446,2023-01-24,Loyal,Midwest,In-Store,,N
+C00447,2023-07-31,Premium,Midwest,Online,44.0,Y
+C00448,2022-01-03,Regular,Midwest,Mobile App,24.0,N
+C00449,2025-03-11,Budget,West,Online,29.0,Y
+C00450,2023-01-11,Loyal,West,Mobile App,43.0,Y
+C00451,2022-11-20,Premium,Southwest,In-Store,18.0,N
+C00452,2022-05-26,Premium,Southwest,Online,35.0,N
+C00453,2022-10-20,Budget,Southwest,Mobile App,28.0,Y
+C00454,2023-03-08,Regular,Northeast,In-Store,51.0,N
+C00455,2023-12-06,Budget,Northeast,Online,42.0,Y
+C00456,2024-08-06,Budget,Southwest,In-Store,52.0,Y
+C00457,2023-08-08,Premium,Southwest,Mobile App,38.0,Y
+C00458,2023-02-03,Premium,Northeast,In-Store,37.0,Y
+C00459,2024-03-27,Regular,West,Online,34.0,Y
+C00460,2024-08-21,Loyal,Northeast,In-Store,32.0,Y
+C00461,2025-03-09,Regular,Southeast,In-Store,70.0,Y
+C00462,2022-07-06,Regular,Southwest,Mobile App,48.0,Y
+C00463,2022-03-02,Regular,Northeast,In-Store,25.0,N
+C00464,2024-07-27,Loyal,Northeast,Online,70.0,N
+C00465,2023-12-11,Budget,Southeast,Mobile App,33.0,N
+C00466,2024-03-17,Loyal,Southwest,Online,42.0,Y
+C00467,2022-01-11,Premium,Southeast,Online,49.0,Y
+C00468,2024-12-21,Budget,Southwest,In-Store,20.0,N
+C00469,2022-08-14,Regular,Midwest,In-Store,28.0,N
+C00470,2025-03-22,Premium,Northeast,Online,58.0,Y
+C00471,2023-07-18,Regular,West,In-Store,35.0,N
+C00472,2024-02-11,Loyal,Northeast,Online,,N
+C00473,2024-06-03,Loyal,West,Online,33.0,N
+C00474,2025-06-20,Regular,Midwest,Mobile App,37.0,Y
+C00475,2025-02-04,Regular,West,Online,59.0,Y
+C00476,2022-08-14,Loyal,Northeast,Online,43.0,Y
+C00477,2024-04-04,Regular,Midwest,Online,34.0,Y
+C00478,2022-08-06,Budget,Northeast,Mobile App,30.0,Y
+C00479,2024-07-25,Budget,Northeast,Online,31.0,Y
+C00480,2024-01-23,Regular,Midwest,Online,53.0,N
+C00481,2023-05-21,Loyal,Northeast,In-Store,47.0,Y
+C00482,2022-09-16,Premium,Midwest,In-Store,24.0,Y
+C00483,2022-02-23,Regular,Northeast,Online,39.0,Y
+C00484,2024-12-06,Budget,Southeast,In-Store,37.0,Y
+C00485,2023-12-28,Budget,Southwest,Online,42.0,N
+C00486,2023-11-20,Premium,Southeast,Mobile App,31.0,Y
+C00487,2025-01-27,Budget,Midwest,Online,51.0,N
+C00488,2024-11-09,Budget,Southwest,Online,38.0,Y
+C00489,2023-02-23,Budget,West,Online,42.0,Y
+C00490,2023-11-21,Regular,Southeast,Online,29.0,N
+C00491,2024-04-29,Loyal,Southwest,In-Store,29.0,Y
+C00492,2022-03-03,Budget,West,Online,,Y
+C00493,2025-03-14,Regular,Southwest,Online,60.0,Y
+C00494,2022-08-04,Regular,Midwest,In-Store,37.0,Y
+C00495,2022-01-03,Loyal,Midwest,In-Store,56.0,Y
+C00496,2022-06-09,Budget,Southwest,Online,53.0,N
+C00497,2024-02-20,Regular,Midwest,Online,30.0,Y
+C00498,2025-02-17,Regular,Northeast,Online,29.0,N
+C00499,2024-06-11,Premium,Northeast,Online,46.0,Y
+C00500,2025-01-17,Regular,West,Online,41.0,Y
+C00501,2022-11-25,Budget,Southeast,In-Store,33.0,Y
+C00502,2023-08-03,Regular,Southwest,Mobile App,47.0,Y
+C00503,2024-08-09,Premium,Southeast,Online,,Y
+C00504,2023-09-27,Budget,Midwest,Online,39.0,Y
+C00505,2024-09-14,Premium,Northeast,Online,,Y
+C00506,2025-05-03, regular,Northeast,Online,24.0,N
+C00507,2024-07-09,Regular,West,Online,30.0,Y
+C00508,2024-01-08,Regular,West,Mobile App,42.0,N
+C00509,2022-06-19,Premium,Southwest,In-Store,30.0,Y
+C00510,2023-06-05,Regular,Midwest,Mobile App,23.0,Y
+C00511,2022-02-09,Premium,Southwest,Mobile App,44.0,Y
+C00512,2024-08-12,Premium,Midwest,Online,56.0,Y
+C00513,2025-06-03,Regular,Midwest,In-Store,46.0,N
+C00514,2024-09-10,Premium,Northeast,Online,60.0,Y
+C00515,2025-02-21,Premium,Midwest,Online,55.0,Y
+C00516,2024-09-01,Budget,Southwest,Mobile App,32.0,Y
+C00517,2022-02-07,Regular,West,Online,46.0,Y
+C00518,2022-11-24,Loyal,Northeast,Mobile App,37.0,Y
+C00519,2025-06-28,Budget,Southwest,Online,51.0,N
+C00520,2025-04-14,Premium,Midwest,Mobile App,37.0,Y
+C00521,2024-07-02,Loyal,Southeast,Mobile App,29.0,N
+C00522,2023-03-30,Budget,Northeast,In-Store,54.0,N
+C00523,2022-02-06,Regular,Southeast,In-Store,42.0,Y
+C00524,2024-08-30,Regular,Southeast,Online,30.0,Y
+C00525,2024-03-06,Regular,Southeast,Mobile App,32.0,Y
+C00526,2024-08-30,Budget,Southwest,Mobile App,30.0,Y
+C00527,2023-08-16,Budget,Southwest,In-Store,26.0,Y
+C00528,2025-02-11,Regular,Midwest,In-Store,32.0,N
+C00529,2024-11-29,Premium,West,In-Store,42.0,Y
+C00530,2022-08-12,Premium,Southeast,Mobile App,39.0,Y
+C00531,2022-11-14,Regular,Southeast,In-Store,33.0,Y
+C00532,2022-12-15,Budget,Southwest,Mobile App,56.0,Y
+C00533,2022-04-25,Regular,Northeast,In-Store,18.0,N
+C00534,2023-11-29,Budget,Southeast,Online,42.0,Y
+C00535,2024-11-29,Loyal,Northeast,Online,36.0,Y
+C00536,2022-02-09,Premium,Northeast,Online,26.0,Y
+C00537,2022-08-04,Premium,West,Online,42.0,N
+C00538,2025-03-16,Loyal,Southeast,Online,35.0,Y
+C00539,2022-12-02,Budget,Midwest,In-Store,53.0,N
+C00540,2025-04-06,Premium,Northeast,Online,48.0,Y
+C00541,2022-04-02,Regular,Southwest,Online,61.0,Y
+C00542,2022-12-19,Loyal,Southeast,In-Store,32.0,Y
+C00543,2023-07-25,Budget,Southwest,Mobile App,55.0,Y
+C00544,2024-03-26,Premium,Southeast,In-Store,24.0,Y
+C00545,2024-02-20,Premium,Northeast,Mobile App,37.0,Y
+C00546,2022-12-29,Budget,Midwest,In-Store,32.0,Y
+C00547,2023-07-11,Regular,Northeast,Online,45.0,Y
+C00548,2025-04-08,Premium,Midwest,In-Store,45.0,Y
+C00549,2022-12-22,Regular,Southeast,In-Store,27.0,Y
+C00550,2022-07-10,Budget,West,Online,46.0,N
+C00551,2023-02-26,Budget,Northeast,Online,33.0,Y
+C00552,2023-12-01,Budget,Southwest,In-Store,28.0,Y
+C00553,2022-01-07,Premium,Northeast,Online,38.0,Y
+C00554,2022-05-13,Regular,Southeast,In-Store,20.0,N
+C00555,2023-07-11,Budget,Southeast,Online,49.0,N
+C00556,2024-04-05,Regular,West,In-Store,37.0,Y
+C00557,2024-01-31,Regular,Southeast,In-Store,38.0,Y
+C00558,2024-11-20,Budget,Northeast,Online,,N
+C00559,2023-06-19,Regular,Southeast,Online,58.0,N
+C00560,2023-03-02,Regular,Northeast,In-Store,56.0,Y
+C00561,2023-11-03,Regular,Northeast,Mobile App,54.0,N
+C00562,2022-12-29,Premium,Midwest,Mobile App,37.0,Y
+C00563,2022-03-23,Budget,Northeast,In-Store,25.0,N
+C00564,2022-12-22,Regular,Northeast,In-Store,38.0,Y
+C00565,2023-08-12,Regular,Southwest,Online,42.0,Y
+C00566,2022-10-22,Regular,Southeast,Online,48.0,Y
+C00567,2025-06-01,Regular,Northeast,Online,42.0,N
+C00568,2024-12-05,Regular,Southeast,In-Store,26.0,N
+C00569,2025-02-10,Premium,Southwest,Online,32.0,Y
+C00570,2025-06-10,Regular,Southeast,Online,30.0,Y
+C00571,2022-01-17,Regular,Midwest,In-Store,44.0,Y
+C00572,2022-12-26, regular,Northeast,In-Store,45.0,Y
+C00573,2025-05-31,Regular,Midwest,Online,46.0,Y
+C00574,2024-05-15,Regular,Southeast,Online,42.0,Y
+C00575,2023-12-01,Budget,Midwest,Online,18.0,N
+C00576,2023-03-24,Budget,West,Online,18.0,Y
+C00577,2024-05-05,Loyal,Midwest,In-Store,36.0,Y
+C00578,2022-12-31,Premium,Southeast,Online,39.0,Y
+C00579,2023-11-06,Loyal,Southeast,In-Store,53.0,Y
+C00580,2024-10-04,Regular,Southeast,Mobile App,39.0,N
+C00581,2023-04-12,Regular,Northeast,Online,26.0,Y
+C00582,2023-02-18,Budget,Northeast,Mobile App,46.0,Y
+C00583,2023-08-09,Regular,Southwest,Online,38.0,Y
+C00584,2025-06-10,Regular,Southeast,Online,33.0,Y
+C00585,2025-06-01,Loyal,Southeast,Online,19.0,Y
+C00586,2024-09-20,Budget,Midwest,Online,39.0,Y
+C00587,2023-07-26,Regular,Midwest,Online,41.0,Y
+C00588,2022-12-01,Regular,Northeast,Online,26.0,Y
+C00589,2025-05-30,Regular,West,In-Store,47.0,Y
+C00590,2022-02-06,Regular,Northeast,Mobile App,,Y
+C00591,2024-09-15,Premium,Southwest,In-Store,39.0,Y
+C00592,2022-10-05,Budget,Southwest,Online,38.0,N
+C00593,2025-05-04,Premium,Southwest,In-Store,49.0,N
+C00594,2024-07-04,Regular,Midwest,In-Store,42.0,Y
+C00595,2023-04-29,Loyal,Northeast,Mobile App,30.0,Y
+C00596,2025-06-19,Premium,Southeast,Mobile App,36.0,Y
+C00597,2024-01-01,Regular,Midwest,Mobile App,45.0,Y
+C00598,2022-07-11,Budget,Southeast,Online,18.0,Y
+C00599,2024-11-06,Loyal,West,In-Store,27.0,N
+C00600,2023-06-08,Regular,Southeast,Online,46.0,N
+C00601,2024-07-06,Loyal,Southeast,Mobile App,53.0,Y
+C00602,2023-02-05,Budget,Southeast,Online,50.0,Y
+C00603,2024-06-04,Regular,Southeast,Online,49.0,N
+C00604,2023-12-06,Premium,,Online,40.0,Y
+C00605,2022-01-22,Loyal,Southwest,In-Store,26.0,Y
+C00606,2023-04-19,Regular,Southwest,Online,36.0,N
+C00607,2025-02-17,Premium,West,Online,18.0,N
+C00608,2022-07-29,Regular,West,online,54.0,N
+C00609,2022-11-02,Budget,West,Mobile App,28.0,Y
+C00610,2023-12-05,Regular,Northeast,Online,32.0,Y
+C00611,2023-11-18,Regular,Southwest,Online,51.0,Y
+C00612,2022-10-12,Loyal,Northeast,Mobile App,19.0,Y
+C00613,2023-12-17,Regular,Northeast,Mobile App,,Y
+C00614,2024-02-02,Budget,Midwest,In-Store,41.0,N
+C00615,2025-06-04,Budget,Southeast,In-Store,44.0,N
+C00616,2024-08-05,Regular,Northeast,Online,37.0,Y
+C00617,2023-01-16,Regular,Northeast,Mobile App,38.0,Y
+C00618,2023-04-05,Premium,Northeast,In-Store,53.0,Y
+C00619,2024-10-27,Regular,West,In-Store,,N
+C00620,2022-01-29,Loyal,Northeast,Online,44.0,Y
+C00621,2024-06-25,Loyal,Northeast,Mobile App,47.0,N
+C00622,2024-11-22,Regular,Southeast,In-Store,34.0,Y
+C00623,2024-05-28,Loyal,Southeast,Online,64.0,Y
+C00624,2022-03-20,Premium,West,In-Store,18.0,N
+C00625,2024-08-04,Regular,Northeast,In-Store,55.0,Y
+C00626,2023-04-04,Budget,Midwest,In-Store,49.0,Y
+C00627,2023-07-24,Regular,Southwest,In-Store,41.0,N
+C00628,2024-01-08,Regular,West,In-Store,39.0,Y
+C00629,2023-05-31,Premium,Midwest,Mobile App,36.0,Y
+C00630,2025-01-27,Regular,West,Online,51.0,Y
+C00631,2023-02-01,Loyal,Northeast,Online,38.0,Y
+C00632,2022-02-08,Regular,Southeast,Online,29.0,N
+C00633,2024-06-05,Budget,Southeast,In-Store,49.0,N
+C00634,2024-03-07,Loyal,West,In-Store,57.0,N
+C00635,2022-06-06,Regular,Northeast,Mobile App,18.0,Y
+C00636,2025-01-03,Regular,Northeast,In-Store,66.0,Y
+C00637,2024-06-02,Regular,Southeast,In-Store,26.0,Y
+C00638,2025-02-27,Budget,Northeast,Mobile App,26.0,N
+C00639,2024-08-31,Regular,Northeast,Online,23.0,Y
+C00640,2025-01-12,Regular,West,Mobile App,38.0,N
+C00641,2024-11-11,Regular,Southeast,Online,23.0,N
+C00642,2024-04-28,Loyal,Midwest,In-Store,24.0,Y
+C00643,2024-01-18,Regular,Southwest,In-Store,30.0,Y
+C00644,2024-09-15,Budget,Southeast,In-Store,40.0,Y
+C00645,2022-01-21,Regular,Northeast,Online,41.0,N
+C00646,2022-10-30,Loyal,,Online,53.0,Y
+C00647,2024-05-18,Budget,Southeast,In-Store,53.0,N
+C00648,2022-03-25,Budget,Midwest,Mobile App,50.0,Y
+C00649,2023-07-24,Budget,Southeast,Online,35.0,N
+C00650,2024-07-22,Budget,Northeast,Mobile App,18.0,Y
+C00651,2025-03-31,Premium,Midwest,Online,18.0,Y
+C00652,2025-04-01,Premium,West,In-Store,,N
+C00653,2024-10-05,Regular,West,In-Store,48.0,N
+C00654,2024-03-03,Regular,West,In-Store,31.0,Y
+C00655,2024-03-02,Regular,Southwest,Mobile App,21.0,N
+C00656,2023-05-07,Loyal,Southeast,In-Store,25.0,N
+C00657,2022-07-27,Loyal,Southwest,In-Store,40.0,Y
+C00658,2024-12-19,Regular,Northeast,Online,40.0,Y
+C00659,2023-03-06,Premium,Southwest,Online,51.0,N
+C00660,2024-09-11,Premium,Southwest,Online,33.0,Y
+C00661,2023-06-04,Regular,Northeast,In-Store,35.0,Y
+C00662,2023-08-14,Budget,Southwest,Online,52.0,N
+C00663,2024-11-16,Regular,West,Online,18.0,Y
+C00664,2022-07-18,Premium,Southeast,Online,42.0,Y
+C00665,2023-01-22,Loyal,West,Online,34.0,N
+C00666,2022-12-15,Premium,Northeast,Online,47.0,Y
+C00667,2024-08-17,Premium,Midwest,online,44.0,N
+C00668,2023-11-24,Regular,Midwest,In-Store,30.0,N
+C00669,2023-01-13,Premium,Midwest,In-Store,32.0,Y
+C00670,2024-06-17,Premium,West,In-Store,18.0,Y
+C00671,2024-07-04,Regular,West,Online,47.0,Y
+C00672,2023-06-11,Regular,Southwest,Mobile App,41.0,Y
+C00673,2025-03-22,Premium,Southeast,Online,55.0,Y
+C00674,2024-01-04,Budget,West,Online,33.0,Y
+C00675,2022-07-25,Premium,Northeast,In-Store,49.0,Y
+C00676,2023-03-31,Budget,West,Online,25.0,Y
+C00677,2025-06-13,Regular,Southeast,In-Store,18.0,Y
+C00678,2023-06-05,Premium,Northeast,Online,37.0,Y
+C00679,2024-10-13,Budget,Southwest,In-Store,31.0,Y
+C00680,2024-08-13,Budget,Southeast,In-Store,25.0,Y
+C00681,2023-12-27,Regular,Southeast,Online,49.0,Y
+C00682,2024-10-10,Loyal,Southeast,In-Store,52.0,Y
+C00683,2023-05-16,Budget,Northeast,Online,39.0,Y
+C00684,2022-04-27,Loyal,Northeast,In-Store,36.0,N
+C00685,2023-01-21,Budget,Northeast,Online,39.0,Y
+C00686,2023-08-07,Loyal,Midwest,In-Store,,Y
+C00687,2023-01-30,Loyal,Northeast,In-Store,45.0,Y
+C00688,2024-12-23,Regular,Southwest,Online,20.0,Y
+C00689,2023-12-22,Regular,Southeast,Mobile App,25.0,Y
+C00690,2022-03-13,Regular,West,Mobile App,29.0,N
+C00691,2022-10-01,Regular,West,In-Store,44.0,Y
+C00692,2022-12-04,Budget,Southeast,In-Store,34.0,N
+C00693,2023-08-30,Budget,Southwest,Online,54.0,Y
+C00694,2022-06-15,Budget,West,In-Store,48.0,Y
+C00695,2022-01-11,Regular,West,Online,28.0,Y
+C00696,2023-12-30,Budget,Midwest,Online,46.0,Y
+C00697,2024-03-11,Regular,Northeast,Mobile App,33.0,Y
+C00698,2022-04-12,Loyal,Southwest,In-Store,44.0,Y
+C00699,2024-02-18,Regular,Midwest,Online,48.0,Y
+C00700,2022-08-02,Regular,Midwest,Online,51.0,Y
+C00701,2025-01-16,Regular,Southeast,In-Store,40.0,Y
+C00702,2023-02-05,Premium,West,Online,57.0,Y
+C00703,2023-08-11,Loyal,West,Online,43.0,Y
+C00704,2024-06-07,Premium,Northeast,Online,40.0,Y
+C00705,2024-12-05,Loyal,Northeast,In-Store,34.0,N
+C00706,2023-08-15,Budget,Northeast,In-Store,30.0,Y
+C00707,2025-01-14,Premium,,Online,43.0,Y
+C00708,2022-04-02,Premium,Southwest,In-Store,39.0,Y
+C00709,2023-11-04,Budget,Midwest,Online,41.0,N
+C00710,2023-12-15,Loyal,Southeast,In-Store,44.0,Y
+C00711,2024-07-24,Budget,Midwest,Mobile App,41.0,Y
+C00712,2022-08-30,Regular,Southeast,In-Store,62.0,Y
+C00713,2022-01-02,Budget,Midwest,Mobile App,32.0,Y
+C00714,2022-08-13,Regular,Southwest,Mobile App,43.0,Y
+C00715,2024-03-11,Premium,West,In-Store,35.0,Y
+C00716,2023-08-12,Regular,West,In-Store,18.0,N
+C00717,2022-04-26,Regular,West,Mobile App,36.0,Y
+C00718,2024-07-06,Regular,Southeast,Online,27.0,Y
+C00719,2025-01-31,Premium,Midwest,Online,37.0,Y
+C00720,2022-07-13,Budget,Southwest,Mobile App,38.0,Y
+C00721,2025-04-04,Regular,West,In-Store,43.0,Y
+C00722,2024-05-20,Loyal,Northeast,Online,32.0,Y
+C00723,2022-03-31,Premium,Southeast,Online,33.0,Y
+C00724,2022-05-02,Regular,Northeast,In-Store,46.0,Y
+C00725,2022-05-23,Premium,Midwest,In-Store,28.0,N
+C00726,2024-09-20,Premium,Southeast,In-Store,18.0,Y
+C00727,2022-04-16,Loyal,Southeast,In-Store,40.0,Y
+C00728,2024-06-05,Regular,Northeast,In-Store,51.0,Y
+C00729,2023-03-04,Budget,Southeast,In-Store,46.0,N
+C00730,2022-11-13,Budget,West,In-Store,40.0,Y
+C00731,2023-09-27,Regular,Southeast,In-Store,53.0,Y
+C00732,2022-01-09,Regular,Southwest,In-Store,51.0,N
+C00733,2024-02-13,Budget,Midwest,Online,34.0,Y
+C00734,2025-01-01,Regular,West,Online,41.0,N
+C00735,2022-08-11,Regular,Northeast,Mobile App,41.0,Y
+C00736,2023-07-07,Regular,West,Online,37.0,Y
+C00737,2023-12-17,Premium,Midwest,Online,52.0,Y
+C00738,2025-01-12,Regular,West,In-Store,36.0,N
+C00739,2022-04-21,Budget,West,Mobile App,32.0,Y
+C00740,2022-09-08,Premium,Northeast,Online,18.0,N
+C00741,2023-01-18,Budget,Northeast,Online,28.0,Y
+C00742,2022-01-07,Premium,Southeast,Online,22.0,N
+C00743,2023-04-04,Premium,Midwest,In-Store,38.0,Y
+C00744,2025-01-12,Regular,Northeast,Online,23.0,Y
+C00745,2022-07-27,Premium,Northeast,Online,45.0,N
+C00746,2024-06-18,Regular,Midwest,Online,51.0,N
+C00747,2022-01-22,Regular,Northeast,Mobile App,38.0,Y
+C00748,2023-02-14,Budget,Northeast,Online,26.0,Y
+C00749,2024-06-13,Regular,Southeast,Online,41.0,Y
+C00750,2023-05-30,Loyal,Northeast,In-Store,61.0,Y
+C00751,2025-02-24,Regular,Southeast,Mobile App,57.0,Y
+C00752,2024-03-19,Regular,Midwest,In-Store,21.0,Y
+C00753,2024-05-23,Regular,Midwest,Mobile App,21.0,Y
+C00754,2022-01-14,Regular,West,Mobile App,18.0,N
+C00755,2024-08-28,Budget,Midwest,Online,24.0,Y
+C00756,2024-09-04,Regular,Midwest,In-Store,41.0,Y
+C00757,2024-10-10,Premium,,Online,31.0,Y
+C00758,2024-11-01,Budget,West,In-Store,28.0,Y
+C00759,2022-03-28,Budget,West,Online,50.0,Y
+C00760,2024-06-27,Budget,West,Online,44.0,Y
+C00761,2025-06-20,Regular,Southwest,Mobile App,18.0,N
+C00762,2022-05-02,Loyal,Northeast,Online,50.0,N
+C00763,2025-03-16,Budget,Southeast,Mobile App,44.0,N
+C00764,2024-01-20,Budget,Northeast,Online,44.0,N
+C00765,2023-11-16,Regular,West,Online,31.0,N
+C00766,2022-11-05,Premium,Southwest,Mobile App,36.0,N
+C00767,2023-11-26,Regular,Southwest,In-Store,18.0,Y
+C00768,2022-10-15,Regular,Southeast,In-Store,48.0,Y
+C00769,2022-11-03,Premium,West,Online,26.0,Y
+C00770,2024-07-02,Regular,Southeast,In-Store,28.0,Y
+C00771,2023-10-24,Loyal,Northeast,In-Store,27.0,Y
+C00772,2023-07-03,Premium,Southeast,In-Store,60.0,Y
+C00773,2022-11-08,Budget,Midwest,Online,30.0,N
+C00774,2024-05-22,Budget,,Mobile App,49.0,Y
+C00775,2024-12-18, regular,West,In-Store,38.0,Y
+C00776,2024-07-12,Regular,Northeast,Mobile App,28.0,N
+C00777,2024-01-25,Loyal,Midwest,In-Store,26.0,Y
+C00778,2022-02-04,Regular,Midwest,In-Store,30.0,Y
+C00779,2023-03-21,Budget,Southeast,Online,37.0,Y
+C00780,2022-04-03,Premium,West,Online,45.0,N
+C00781,2025-05-15,Regular,Southwest,Mobile App,32.0,Y
+C00782,2022-12-19,Budget,Southwest,Online,32.0,Y
+C00783,2024-06-21,Regular,West,Online,27.0,Y
+C00784,2024-05-11,Regular,Southwest,Online,24.0,Y
+C00785,2022-06-08,Premium,,Online,23.0,Y
+C00786,2024-08-14,Budget,Southwest,Mobile App,50.0,N
+C00787,2022-01-24,Budget,Southeast,Mobile App,32.0,N
+C00788,2023-02-08,Regular,Southeast,In-Store,33.0,N
+C00789,2024-03-15,Budget,Northeast,Online,30.0,N
+C00790,2023-05-31,Regular,Southwest,In-Store,34.0,Y
+C00791,2024-01-02,Regular,Southwest,In-Store,42.0,N
+C00792,2023-06-16,Regular,Southeast,Mobile App,32.0,Y
+C00793,2024-08-13,Loyal,Southwest,In-Store,40.0,Y
+C00794,2022-06-01,Regular,West,Online,55.0,Y
+C00795,2024-08-04,Budget,Northeast,In-Store,28.0,Y
+C00796,2023-08-31,Regular,Southeast,Mobile App,33.0,Y
+C00797,2023-02-24,Premium,Southwest,In-Store,46.0,Y
+C00798,2025-06-27,Premium,Southeast,In-Store,56.0,Y
+C00799,2025-02-14,Budget,Midwest,Online,23.0,N
+C00800,2024-05-15,Loyal,Northeast,In-Store,18.0,Y
+C00801,2023-08-01,Regular,Midwest,In-Store,38.0,Y
+C00802,2022-12-01,Budget,Southwest,Online,37.0,N
+C00803,2024-07-20,Budget,Southwest,In-Store,46.0,Y
+C00804,2022-10-22,Budget,West,Online,45.0,N
+C00805,2024-01-25,Premium,West,Online,38.0,Y
+C00806,2022-07-05,Budget,Southwest,Online,51.0,N
+C00807,2025-06-23,Budget,Southwest,Online,30.0,Y
+C00808,2023-09-29,Premium,Northeast,In-Store,41.0,Y
+C00809,2025-06-14,Regular,Midwest,Online,23.0,Y
+C00810,2023-06-14,Budget,Northeast,Online,37.0,Y
+C00811,2022-01-21,Budget,West,Mobile App,20.0,N
+C00812,2024-06-29,Budget,Southeast,In-Store,25.0,Y
+C00813,2024-05-16,Budget,Midwest,In-Store,59.0,Y
+C00814,2024-03-04,Regular,Southeast,Online,18.0,Y
+C00815,2022-04-10,Budget,Southwest,In-Store,35.0,N
+C00816,2024-01-22,Budget,West,Online,48.0,Y
+C00817,2023-04-23,Premium,Southeast,Mobile App,65.0,N
+C00818,2024-07-28,Regular,West,online,40.0,Y
+C00819,2023-06-10,Regular,Southeast,In-Store,41.0,Y
+C00820,2022-11-30,Regular,Midwest,Online,38.0,Y
+C00821,2022-01-02,Regular,West,In-Store,51.0,N
+C00822,2023-01-10,Regular,Southeast,In-Store,43.0,N
+C00823,2022-10-20,Regular,West,Online,31.0,Y
+C00824,2024-04-16,Regular,Northeast,Online,51.0,Y
+C00825,2024-10-01,Loyal,Northeast,In-Store,32.0,N
+C00826,2023-07-07,Budget,West,Mobile App,19.0,Y
+C00827,2022-11-14,Premium,Northeast,Mobile App,19.0,Y
+C00828,2023-01-16,Budget,West,Online,36.0,Y
+C00829,2022-01-14,Premium,West,Online,,Y
+C00830,2023-05-19,Regular,Northeast,Mobile App,49.0,Y
+C00831,2022-08-19,Premium,Midwest,In-Store,46.0,Y
+C00832,2025-01-12,Budget,Northeast,In-Store,39.0,Y
+C00833,2022-05-10,Regular,Southeast,Mobile App,50.0,N
+C00834,2024-04-17,Regular,Northeast,Mobile App,38.0,Y
+C00835,2025-03-14,Premium,Northeast,In-Store,23.0,N
+C00836,2024-06-09,Regular,Southeast,Online,20.0,Y
+C00837,2022-01-28,Regular,Southeast,Online,53.0,Y
+C00838,2022-03-07,Regular,West,In-Store,18.0,Y
+C00839,2025-04-01,Regular,West,Online,36.0,N
+C00840,2025-06-06,Regular,Southwest,Online,74.0,Y
+C00841,2022-09-18,Budget,Midwest,Online,44.0,N
+C00842,2023-04-05,Loyal,West,Online,35.0,Y
+C00843,2022-10-28,Premium,Southeast,In-Store,18.0,Y
+C00844,2024-07-07,Loyal,Southwest,In-Store,57.0,N
+C00845,2022-10-14,Budget,West,In-Store,53.0,Y
+C00846,2024-10-30,Premium,Southeast,Online,46.0,Y
+C00847,2023-09-22,Premium,Southwest,Mobile App,38.0,N
+C00848,2022-09-27,Regular,West,Online,45.0,Y
+C00849,2023-08-15,Regular,West,In-Store,36.0,Y
+C00850,2024-04-23,Regular,Southwest,Mobile App,26.0,N
+C00851,2024-05-11, regular,Southeast,Online,49.0,Y
+C00852,2022-05-13,Regular,Southeast,In-Store,37.0,N
+C00853,2024-08-29,Budget,Northeast,Mobile App,44.0,Y
+C00854,2023-05-28,Regular,Southwest,Online,,N
+C00855,2022-11-09,Loyal,Northeast,In-Store,44.0,Y
+C00856,2023-07-30,Premium,West,Online,38.0,N
+C00857,2024-06-04,Loyal,Northeast,Online,37.0,Y
+C00858,2025-02-18,Regular,Northeast,Mobile App,38.0,Y
+C00859,2025-02-04,Budget,Midwest,Mobile App,74.0,Y
+C00860,2023-11-18,Budget,Southwest,In-Store,48.0,Y
+C00861,2025-05-12,Budget,Northeast,Online,69.0,N
+C00862,2022-06-14,Budget,Midwest,Online,38.0,N
+C00863,2022-11-01,Regular,Midwest,In-Store,34.0,Y
+C00864,2022-06-05,Budget,Northeast,Online,25.0,N
+C00865,2023-09-12,Regular,Northeast,In-Store,57.0,Y
+C00866,2025-06-28,Loyal,West,In-Store,27.0,Y
+C00867,2024-08-14,Regular,Midwest,In-Store,60.0,Y
+C00868,2022-11-30,Premium,Northeast,In-Store,26.0,Y
+C00869,2024-08-26,Regular,West,Online,49.0,Y
+C00870,2023-05-26,Budget,West,Online,19.0,N
+C00871,2024-11-09,Regular,Midwest,Online,33.0,Y
+C00872,2022-10-09,Budget,Midwest,In-Store,38.0,Y
+C00873,2024-03-07,Regular,West,online,31.0,Y
+C00874,2024-10-21,Regular,West,In-Store,36.0,N
+C00875,2022-04-29,Budget,Southwest,In-Store,36.0,Y
+C00876,2024-11-24,Budget,Midwest,Mobile App,48.0,Y
+C00877,2022-07-17,Regular,Midwest,Online,18.0,Y
+C00878,2023-04-30,Loyal,Southwest,Online,31.0,N
+C00879,2024-12-18,Premium,Northeast,Online,53.0,Y
+C00880,2024-04-16,Premium,Midwest,In-Store,45.0,N
+C00881,2025-03-30,Budget,West,Online,53.0,Y
+C00882,2024-10-05,Premium,Southwest,Mobile App,47.0,N
+C00883,2023-11-22,Premium,Southeast,In-Store,25.0,Y
+C00884,2025-05-14,Regular,Southwest,Mobile App,46.0,Y
+C00885,2024-11-01,Loyal,Northeast,Mobile App,39.0,Y
+C00886,2023-05-05,Regular,Southeast,Online,65.0,Y
+C00887,2022-10-03,Loyal,Southwest,Online,48.0,Y
+C00888,2023-11-24,Loyal,Northeast,In-Store,44.0,N
+C00889,2022-08-30,Budget,Northeast,Online,46.0,N
+C00890,2025-05-24,Regular,West,Online,44.0,N
+C00891,2025-06-28,Loyal,Northeast,In-Store,43.0,Y
+C00892,2022-05-06,Budget,Southeast,Online,,Y
+C00893,2022-08-05,Regular,West,In-Store,44.0,Y
+C00894,2025-04-23,Loyal,Southwest,In-Store,49.0,Y
+C00895,2024-11-28,Regular,Southwest,Online,51.0,N
+C00896,2025-05-31,Budget,West,In-Store,49.0,Y
+C00897,2025-04-22,Regular,Northeast,Online,56.0,N
+C00898,2023-05-10,Budget,Southwest,In-Store,51.0,Y
+C00899,2023-03-03,Regular,Midwest,Online,46.0,N
+C00900,2025-04-16,Budget,West,Mobile App,24.0,Y
+C00901,2024-07-07,Regular,Midwest,Online,24.0,N
+C00902,2022-05-31,Regular,Midwest,Online,35.0,Y
+C00903,2023-01-19,Premium,Midwest,Online,39.0,Y
+C00904,2022-11-04,Regular,Midwest,Online,55.0,N
+C00905,2024-01-16,Regular,Southwest,Online,18.0,Y
+C00906,2024-06-10,Regular,Midwest,In-Store,26.0,Y
+C00907,2023-01-10,Budget,Midwest,In-Store,36.0,Y
+C00908,2024-10-28,Regular,Midwest,Online,26.0,Y
+C00909,2022-05-09,Budget,Midwest,Online,28.0,Y
+C00910,2024-10-11,Loyal,Southwest,In-Store,32.0,Y
+C00911,2023-10-31,Budget,West,In-Store,27.0,Y
+C00912,2023-06-01,Regular,,Online,29.0,Y
+C00913,2022-03-27,Regular,West,Mobile App,54.0,Y
+C00914,2025-04-13,Regular,West,Online,45.0,Y
+C00915,2025-05-01,Budget,Midwest,In-Store,47.0,N
+C00916,2022-11-07,Regular,Southwest,Online,38.0,N
+C00917,2025-02-16,Regular,West,Online,50.0,Y
+C00918,2025-05-26,Premium,Midwest,Mobile App,48.0,Y
+C00919,2023-03-03,Regular,West,Online,45.0,Y
+C00920,2022-04-24,Regular,Southwest,In-Store,30.0,N
+C00921,2025-03-14,Regular,Midwest,Online,33.0,Y
+C00922,2022-10-30,Regular,Southeast,In-Store,51.0,Y
+C00923,2024-01-14,Regular,Southeast,Mobile App,32.0,Y
+C00924,2023-08-11,Regular,West,Online,23.0,Y
+C00925,2024-09-13,Budget,Southwest,Mobile App,32.0,Y
+C00926,2022-12-11,Budget,Midwest,In-Store,,N
+C00927,2024-03-24,Budget,West,In-Store,32.0,Y
+C00928,2024-03-11,Budget,Midwest,In-Store,42.0,Y
+C00929,2024-10-21, regular,Midwest,Mobile App,31.0,Y
+C00930,2025-03-16,Regular,Southwest,Online,47.0,N
+C00931,2024-12-12,Budget,Southwest,Online,44.0,Y
+C00932,2024-12-28,Loyal,Northeast,online,20.0,Y
+C00933,2022-12-27,Budget,Midwest,In-Store,41.0,Y
+C00934,2025-05-28,Premium,Midwest,Online,18.0,Y
+C00935,2024-10-06,Regular,Southeast,In-Store,31.0,Y
+C00936,2023-12-05,Regular,Midwest,In-Store,38.0,Y
+C00937,2023-07-29,Budget,Southeast,Online,60.0,N
+C00938,2025-03-30,Regular,Northeast,Online,42.0,Y
+C00939,2025-01-17,Regular,Southeast,In-Store,29.0,Y
+C00940,2023-11-19,Loyal,Northeast,Online,34.0,Y
+C00941,2024-02-20,Regular,Midwest,In-Store,49.0,Y
+C00942,2023-08-08,Loyal,West,Mobile App,29.0,N
+C00943,2023-08-12,Budget,,Online,51.0,Y
+C00944,2025-03-28,Premium,Southeast,Online,32.0,Y
+C00945,2023-05-04,Regular,Northeast,Online,27.0,N
+C00946,2024-08-28,Premium,Northeast,In-Store,32.0,N
+C00947,2025-01-30,Budget,Midwest,In-Store,19.0,Y
+C00948,2023-05-09,Regular,Northeast,Online,18.0,Y
+C00949,2022-01-19,Regular,Midwest,In-Store,37.0,Y
+C00950,2023-02-01,Premium,Southeast,Online,37.0,Y
+C00951,2024-09-27,Regular,West,Online,41.0,N
+C00952,2024-04-30,Loyal,Southeast,Online,37.0,Y
+C00953,2024-04-01,Budget,Southeast,Online,66.0,Y
+C00954,2023-03-31,Premium,West,Online,40.0,Y
+C00955,2023-12-26,Premium,Southeast,Online,21.0,Y
+C00956,2024-12-24,Premium,Northeast,Mobile App,25.0,Y
+C00957,2025-01-04,Regular,Midwest,In-Store,38.0,N
+C00958,2023-12-12,Regular,Midwest,Online,33.0,Y
+C00959,2022-05-23,Loyal,Southwest,Online,23.0,Y
+C00960,2024-07-05,Budget,Southeast,Online,37.0,N
+C00961,2024-04-07,Regular,Midwest,Online,37.0,Y
+C00962,2023-08-28,Regular,Southeast,In-Store,57.0,N
+C00963,2022-11-01,Premium,Northeast,Online,27.0,Y
+C00964,2024-01-06,Budget,West,Online,33.0,Y
+C00965,2022-10-18,Regular,Southwest,Online,57.0,Y
+C00966,2022-04-12,Premium,Southeast,Online,42.0,N
+C00967,2024-05-16,Budget,Midwest,Online,27.0,Y
+C00968,2024-08-25,Loyal,Northeast,In-Store,29.0,Y
+C00969,2024-08-31,Budget,West,Online,23.0,N
+C00970,2024-04-21,Regular,Northeast,Online,,Y
+C00971,2024-08-19,Budget,Northeast,In-Store,50.0,Y
+C00972,2024-07-30,Budget,Midwest,Mobile App,58.0,Y
+C00973,2024-10-23,Loyal,Midwest,Mobile App,20.0,Y
+C00974,2022-03-26,Regular,Midwest,In-Store,48.0,Y
+C00975,2022-11-24,Regular,Northeast,Online,40.0,Y
+C00976,2024-03-26,Budget,Southeast,In-Store,35.0,N
+C00977,2023-03-30,Regular,Midwest,In-Store,,N
+C00978,2023-09-21,Regular,Northeast,Online,18.0,Y
+C00979,2025-05-29,Regular,West,In-Store,46.0,N
+C00980,2025-03-23,Regular,Northeast,Mobile App,,Y
+C00981,2023-10-27,Loyal,Midwest,Online,29.0,Y
+C00982,2022-01-12,Regular,Southwest,Online,43.0,Y
+C00983,2025-03-02,Regular,Southeast,Online,18.0,Y
+C00984,2022-10-31,Regular,Midwest,Online,22.0,N
+C00985,2024-09-01,Premium,West,Online,53.0,Y
+C00986,2024-02-22,Regular,Northeast,In-Store,39.0,Y
+C00987,2022-02-12,Regular,West,In-Store,30.0,Y
+C00988,2024-08-01,Budget,Midwest,Online,,Y
+C00989,2022-12-09,Loyal,Southeast,Mobile App,46.0,Y
+C00990,2023-05-13,Regular,Southeast,Online,51.0,Y
+C00991,2022-12-30,Premium,Southeast,Online,25.0,Y
+C00992,2024-06-09,Regular,Southwest,In-Store,26.0,N
+C00993,2023-03-03,Budget,Southwest,In-Store,45.0,Y
+C00994,2024-10-01,Premium,West,In-Store,46.0,Y
+C00995,2022-01-21,Regular,West,Mobile App,22.0,Y
+C00996,2023-02-11,Premium,Southwest,In-Store,26.0,N
+C00997,2023-09-11,Loyal,Midwest,Mobile App,36.0,Y
+C00998,2024-10-11,Premium,Southeast,Online,38.0,N
+C00999,2022-12-02,Budget,Midwest,In-Store,39.0,N
+C01000,2025-02-14,Premium,Northeast,Mobile App,22.0,N
+C01001,2025-02-21,Regular,Southwest,In-Store,39.0,N
+C01002,2023-02-03,Premium,Midwest,Online,29.0,N
+C01003,2024-03-03,Regular,Northeast,In-Store,24.0,Y
+C01004,2023-12-16,Premium,Northeast,In-Store,38.0,N
+C01005,2022-02-20,Regular,Southeast,Online,37.0,Y
+C01006,2022-11-20,Regular,Midwest,Mobile App,48.0,N
+C01007,2024-02-28,Budget,Midwest,Online,28.0,Y
+C01008,2022-05-21,Premium,Midwest,Online,41.0,Y
+C01009,2023-04-15,Regular,Midwest,Mobile App,19.0,Y
+C01010,2024-02-26,Regular,Southwest,Online,35.0,Y
+C01011,2024-08-21,Premium,Northeast,Online,44.0,Y
+C01012,2024-10-04,Regular,,In-Store,45.0,Y
+C01013,2023-01-08,Budget,Midwest,In-Store,45.0,N
+C01014,2023-05-09,Regular,Midwest,Online,48.0,Y
+C01015,2024-01-21,Regular,Northeast,Mobile App,33.0,Y
+C01016,2025-03-25,Regular,Southeast,In-Store,44.0,N
+C01017,2022-10-18,Budget,Northeast,In-Store,60.0,Y
+C01018,2025-03-13,Budget,Midwest,In-Store,32.0,Y
+C01019,2022-04-16,Regular,Southeast,In-Store,55.0,N
+C01020,2023-11-01,Premium,Midwest,Online,49.0,N
+C01021,2022-01-02,Budget,West,Online,35.0,Y
+C01022,2023-08-12,Regular,Southeast,In-Store,36.0,Y
+C01023,2023-10-06,Loyal,West,Mobile App,39.0,Y
+C01024,2022-03-31,Budget,Midwest,Online,48.0,Y
+C01025,2022-12-16,Regular,Midwest,In-Store,43.0,Y
+C01026,2025-02-05,Premium,Southwest,Mobile App,32.0,N
+C01027,2024-11-28,Loyal,Southwest,Online,18.0,N
+C01028,2024-06-27,Premium,Midwest,Online,46.0,Y
+C01029,2022-06-08,Premium,Southeast,Online,18.0,Y
+C01030,2024-08-16,Premium,Northeast,In-Store,22.0,N
+C01031,2022-11-08,Regular,,Online,33.0,Y
+C01032,2025-06-18,Premium,Southeast,Online,23.0,Y
+C01033,2023-03-21,Budget,Southeast,In-Store,42.0,Y
+C01034,2022-10-25,Loyal,Southeast,In-Store,34.0,Y
+C01035,2024-08-09,Regular,Northeast,Online,47.0,N
+C01036,2022-02-05,Regular,Southwest,Online,19.0,Y
+C01037,2025-01-12,Budget,West,In-Store,30.0,Y
+C01038,2025-04-10,Premium,West,Mobile App,38.0,Y
+C01039,2023-07-13,Budget,Midwest,Mobile App,39.0,N
+C01040,2024-06-09,Premium,,In-Store,46.0,Y
+C01041,2022-05-21,Premium,West,Online,27.0,Y
+C01042,2024-06-05,Budget,Southeast,Online,32.0,Y
+C01043,2025-02-15,Premium,Southeast,Online,44.0,Y
+C01044,2023-12-27,Premium,West,online,,Y
+C01045,2025-05-28,Regular,Midwest,In-Store,43.0,Y
+C01046,2024-11-15,Regular,Midwest,Online,47.0,Y
+C01047,2023-06-05,Budget,Northeast,Online,22.0,Y
+C01048,2022-01-10,Budget,Northeast,Mobile App,34.0,N
+C01049,2024-09-10,Regular,West,Online,56.0,Y
+C01050,2023-01-13,Loyal,Midwest,Online,46.0,Y
+C01051,2023-11-13,Budget,Southeast,Online,43.0,Y
+C01052,2023-08-07,Premium,Northeast,In-Store,50.0,Y
+C01053,2022-06-01,Regular,Midwest,In-Store,60.0,Y
+C01054,2023-12-21,Regular,Midwest,online,38.0,N
+C01055,2024-12-08,Premium,Northeast,In-Store,33.0,N
+C01056,2025-03-23,Loyal,West,In-Store,50.0,Y
+C01057,2024-05-08,Regular,Northeast,Mobile App,36.0,Y
+C01058,2022-02-19,Regular,Southeast,Mobile App,27.0,Y
+C01059,2023-10-26,Regular,Southwest,Mobile App,32.0,Y
+C01060,2023-06-15,Budget,Southeast,In-Store,42.0,Y
+C01061,2024-12-19,Regular,,Online,33.0,Y
+C01062,2025-04-05,Regular,Southwest,Online,34.0,N
+C01063,2025-05-10,Regular,Southwest,Online,26.0,Y
+C01064,2024-05-06,Premium,Northeast,In-Store,55.0,Y
+C01065,2022-05-26,Regular,Northeast,Mobile App,34.0,N
+C01066,2024-07-03,Regular,Southeast,In-Store,29.0,Y
+C01067,2024-09-19,Regular,Midwest,Online,31.0,Y
+C01068,2022-08-30,Premium,Southwest,In-Store,48.0,Y
+C01069,2023-08-04,Premium,West,Mobile App,45.0,Y
+C01070,2023-11-18,Regular,Southwest,In-Store,32.0,N
+C01071,2023-04-28,Premium,West,Mobile App,38.0,N
+C01072,2025-02-05, regular,Southwest,Mobile App,41.0,N
+C01073,2025-06-03,Regular,Southeast,Mobile App,30.0,N
+C01074,2023-11-04,Regular,Southeast,In-Store,20.0,Y
+C01075,2023-09-23,Regular,Southwest,In-Store,44.0,N
+C01076,2023-10-23,Premium,Northeast,Online,30.0,N
+C01077,2023-10-24,Loyal,Northeast,Online,43.0,Y
+C01078,2024-03-15,Budget,Midwest,In-Store,42.0,Y
+C01079,2023-02-23,Regular,West,Online,39.0,Y
+C01080,2024-09-14,Regular,Northeast,Mobile App,33.0,Y
+C01081,2025-03-29,Budget,Southwest,Online,30.0,Y
+C01082,2023-10-12,Budget,,Mobile App,24.0,N
+C01083,2024-08-26,Regular,Midwest,Online,31.0,N
+C01084,2023-08-13,Budget,Northeast,Online,45.0,Y
+C01085,2025-01-05,Budget,Northeast,Mobile App,55.0,Y
+C01086,2023-05-24,Budget,Southwest,Online,53.0,N
+C01087,2023-03-17,Regular,Southwest,Online,40.0,Y
+C01088,2024-07-09,Premium,West,Online,55.0,Y
+C01089,2024-02-09,Regular,Midwest,In-Store,34.0,N
+C01090,2022-09-20,Loyal,Northeast,Online,23.0,N
+C01091,2023-09-29,Regular,Northeast,In-Store,61.0,N
+C01092,2025-04-05,Premium,Southwest,In-Store,44.0,Y
+C01093,2023-04-04,Premium,Northeast,In-Store,20.0,Y
+C01094,2024-09-25,Regular,Southeast,In-Store,57.0,N
+C01095,2023-12-01,Regular,Midwest,In-Store,29.0,Y
+C01096,2022-10-29,Premium,Northeast,Online,32.0,N
+C01097,2025-05-26,Budget,Southeast,Mobile App,50.0,Y
+C01098,2025-01-30,Regular,Southeast,Online,54.0,Y
+C01099,2023-07-08,Regular,Southeast,In-Store,26.0,Y
+C01100,2022-10-15,Regular,Northeast,Online,56.0,Y
+C01101,2025-04-05,Budget,Southwest,Mobile App,48.0,N
+C01102,2023-09-13,Loyal,West,Online,28.0,Y
+C01103,2024-10-02,Regular,Southeast,Online,35.0,N
+C01104,2022-02-05,Regular,,In-Store,56.0,N
+C01105,2024-01-14,Loyal,Southeast,In-Store,19.0,Y
+C01106,2022-12-19,Regular,Midwest,Online,55.0,N
+C01107,2022-03-14,Loyal,West,In-Store,48.0,Y
+C01108,2023-10-10,Regular,Southwest,In-Store,44.0,N
+C01109,2024-12-29,Budget,West,Mobile App,40.0,Y
+C01110,2023-03-01,Premium,Northeast,online,62.0,Y
+C01111,2024-09-25,Regular,Northeast,Online,63.0,Y
+C01112,2023-12-09,Premium,West,Online,31.0,N
+C01113,2023-07-15,Loyal,Southeast,Mobile App,45.0,N
+C01114,2024-04-07,Premium,Southeast,Mobile App,60.0,Y
+C01115,2024-08-13,Regular,Southwest,Online,29.0,Y
+C01116,2023-06-01,Premium,West,Online,41.0,Y
+C01117,2023-03-04,Regular,West,In-Store,50.0,N
+C01118,2022-06-09,Regular,Southeast,Online,18.0,Y
+C01119,2022-05-29,Loyal,West,Online,48.0,N
+C01120,2024-02-15,Budget,Northeast,Online,25.0,Y
+C01121,2025-06-07,Premium,Northeast,Online,40.0,Y
+C01122,2022-03-08,Loyal,Midwest,Online,52.0,N
+C01123,2024-10-10,Premium,,In-Store,18.0,N
+C01124,2023-01-16,Regular,Southeast,Online,47.0,N
+C01125,2022-02-27,Premium,Southwest,Online,62.0,Y
+C01126,2022-12-08,Regular,Southeast,Online,32.0,N
+C01127,2025-02-27,Premium,Northeast,Online,45.0,Y
+C01128,2023-12-28,Budget,Southeast,Online,54.0,N
+C01129,2025-04-10, regular,Midwest,In-Store,19.0,Y
+C01130,2024-02-09,Regular,Midwest,In-Store,47.0,Y
+C01131,2023-09-06,Regular,Southwest,Online,50.0,Y
+C01132,2025-05-17,Regular,Southwest,Online,46.0,Y
+C01133,2022-12-20,Premium,Midwest,Online,39.0,Y
+C01134,2022-04-26,Regular,West,In-Store,26.0,N
+C01135,2023-10-24,Regular,Northeast,Mobile App,55.0,Y
+C01136,2023-03-29,Budget,Southeast,Online,38.0,N
+C01137,2022-10-14,Regular,West,Mobile App,27.0,Y
+C01138,2024-10-13,Regular,Southeast,Online,34.0,Y
+C01139,2022-11-07,Budget,,Mobile App,42.0,N
+C01140,2022-07-27,Regular,Midwest,In-Store,19.0,Y
+C01141,2023-09-10,Budget,,In-Store,38.0,Y
+C01142,2023-03-22,Budget,Southeast,In-Store,33.0,N
+C01143,2023-11-01,Regular,Southeast,Online,54.0,Y
+C01144,2023-09-25,Budget,Southeast,Mobile App,18.0,Y
+C01145,2022-02-24,Premium,,In-Store,49.0,N
+C01146,2024-06-30,Premium,Midwest,In-Store,55.0,Y
+C01147,2024-11-01,Regular,West,Online,18.0,N
+C01148,2023-10-19,Loyal,Southeast,Online,18.0,Y
+C01149,2024-09-06,Regular,Northeast,Mobile App,59.0,Y
+C01150,2023-05-30,Regular,Southeast,In-Store,27.0,Y
+C01151,2022-08-25,Loyal,Midwest,In-Store,75.0,N
+C01152,2022-12-14,Budget,West,In-Store,18.0,Y
+C01153,2023-09-19,Loyal,Southeast,Mobile App,40.0,N
+C01154,2025-02-01,Budget,Southwest,In-Store,38.0,Y
+C01155,2023-09-22,Regular,Southeast,In-Store,36.0,Y
+C01156,2025-06-25,Budget,Midwest,In-Store,44.0,N
+C01157,2022-12-30, regular,West,Online,44.0,Y
+C01158,2022-11-17,Regular,Southeast,Online,36.0,Y
+C01159,2022-10-13,Premium,Southeast,Mobile App,26.0,Y
+C01160,2022-05-29,Regular,West,Online,51.0,Y
+C01161,2025-01-12,Regular,West,Mobile App,46.0,Y
+C01162,2023-02-10,Budget,Midwest,Online,39.0,Y
+C01163,2024-09-04,Regular,Midwest,Online,45.0,Y
+C01164,2023-04-01,Loyal,Southeast,Mobile App,47.0,Y
+C01165,2024-03-10,Regular,Midwest,In-Store,29.0,Y
+C01166,2025-03-30,Premium,West,Online,45.0,Y
+C01167,2024-10-09,Premium,Southwest,In-Store,31.0,N
+C01168,2024-02-23,Regular,Southeast,In-Store,48.0,N
+C01169,2023-04-05,Regular,Northeast,In-Store,36.0,Y
+C01170,2024-01-08,Budget,Southeast,Online,45.0,Y
+C01171,2023-05-24,Budget,Northeast,Mobile App,33.0,N
+C01172,2023-04-26,Budget,Northeast,Mobile App,46.0,Y
+C01173,2022-04-24,Regular,Southeast,Online,26.0,Y
+C01174,2024-01-19,Regular,Northeast,Mobile App,38.0,Y
+C01175,2022-12-27,Regular,Northeast,Mobile App,50.0,N
+C01176,2022-12-07,Regular,Midwest,In-Store,44.0,Y
+C01177,2024-02-09,Regular,Northeast,In-Store,40.0,N
+C01178,2024-01-31,Regular,Northeast,Online,60.0,N
+C01179,2024-08-26,Premium,Southeast,Online,50.0,Y
+C01180,2023-03-25,Budget,Northeast,In-Store,48.0,N
+C01181,2024-04-14,Budget,Midwest,online,46.0,Y
+C01182,2025-04-18,Premium,Northeast,In-Store,47.0,Y
+C01183,2025-05-04,Regular,Southwest,In-Store,58.0,Y
+C01184,2022-11-07,Regular,West,Online,33.0,Y
+C01185,2022-09-19,Regular,Southwest,Online,50.0,Y
+C01186,2023-02-10,Regular,Midwest,Online,42.0,Y
+C01187,2022-05-23,Budget,West,Online,33.0,Y
+C01188,2022-12-08,Budget,Southwest,In-Store,37.0,Y
+C01189,2025-01-29,Regular,Northeast,Online,41.0,Y
+C01190,2022-09-01,Regular,Southeast,In-Store,28.0,N
+C01191,2023-05-05,Premium,West,Online,48.0,Y
+C01192,2022-01-12,Premium,Southeast,In-Store,37.0,Y
+C01193,2025-06-16,Regular,Northeast,In-Store,39.0,Y
+C01194,2023-07-15,Premium,Southwest,Online,54.0,Y
+C01195,2022-02-11,Regular,West,Online,40.0,Y
+C01196,2023-11-09,Regular,Northeast,Online,57.0,Y
+C01197,2023-08-17,Premium,Midwest,Mobile App,32.0,Y
+C01198,2025-03-27,Regular,Northeast,Online,25.0,Y
+C01199,2025-05-24,Regular,Southwest,In-Store,35.0,N
+C01200,2022-05-14,Budget,Southeast,Mobile App,18.0,N
+C01201,2024-12-26,Regular,Southeast,In-Store,49.0,Y
+C01202,2024-10-27,Premium,West,Online,26.0,N
+C01203,2024-08-05,Premium,Midwest,Mobile App,31.0,Y
+C01204,2022-03-14,Premium,Southwest,Online,47.0,Y
+C01205,2023-02-03,Premium,Southeast,Online,39.0,N
+C01206,2023-08-01,Regular,Southeast,Mobile App,33.0,Y
+C01207,2024-05-08,Regular,Midwest,In-Store,18.0,Y
+C01208,2022-05-10,Budget,Northeast,Online,54.0,Y
+C01209,2024-07-19,Regular,Southeast,Online,47.0,Y
+C01210,2025-05-14,Regular,Northeast,Online,63.0,Y
+C01211,2022-09-23,Loyal,Southwest,online,31.0,Y
+C01212,2024-03-03,Regular,West,Online,21.0,Y
+C01213,2022-09-10,Regular,West,Mobile App,50.0,Y
+C01214,2024-04-01,Regular,Midwest,Mobile App,36.0,N
+C01215,2022-06-13,Regular,Southeast,Mobile App,46.0,Y
+C01216,2022-04-05,Premium,Midwest,Online,57.0,N
+C01217,2024-04-12,Budget,West,In-Store,43.0,N
+C01218,2025-02-07,Regular,Northeast,Mobile App,40.0,N
+C01219,2022-12-02,Premium,West,Mobile App,41.0,N
+C01220,2024-04-01,Regular,Southeast,Online,18.0,Y
+C01221,2022-08-26,Budget,West,Online,,Y
+C01222,2023-01-16,Regular,West,Online,52.0,Y
+C01223,2024-06-17,Premium,West,In-Store,44.0,N
+C01224,2023-04-28,Budget,Southeast,In-Store,20.0,Y
+C01225,2024-06-20,Premium,Northeast,Mobile App,37.0,Y
+C01226,2024-11-14,Premium,Southeast,Online,55.0,Y
+C01227,2025-02-14,Regular,Southeast,Online,31.0,N
+C01228,2023-04-27,Loyal,Northeast,Online,52.0,Y
+C01229,2024-07-05,Premium,Midwest,Online,39.0,Y
+C01230,2024-09-20,Premium,Southeast,Online,47.0,Y
+C01231,2024-08-21,Premium,Midwest,In-Store,33.0,N
+C01232,2023-06-21,Budget,Midwest,In-Store,39.0,Y
+C01233,2025-01-07,Budget,Northeast,In-Store,43.0,Y
+C01234,2025-04-11,Regular,West,Online,25.0,Y
+C01235,2024-11-01,Budget,Northeast,Online,41.0,Y
+C01236,2022-05-08,Regular,Midwest,Online,18.0,N
+C01237,2022-04-02,Loyal,Midwest,Mobile App,31.0,Y
+C01238,2023-06-27,Premium,West,Online,45.0,Y
+C01239,2024-04-25,Regular,Northeast,Mobile App,51.0,N
+C01240,2024-09-15,Premium,Southeast,Online,44.0,N
+C01241,2023-03-23,Premium,Midwest,online,21.0,Y
+C01242,2023-01-25,Regular,Northeast,Mobile App,50.0,Y
+C01243,2023-11-03,Budget,Midwest,Online,24.0,N
+C01244,2022-02-12,Regular,West,In-Store,45.0,Y
+C01245,2022-09-11,Premium,West,Online,25.0,N
+C01246,2025-02-27,Regular,Northeast,Mobile App,29.0,N
+C01247,2024-12-19,Regular,Southeast,Online,27.0,Y
+C01248,2023-10-25,Budget,Southeast,Online,40.0,N
+C01249,2023-04-12,Premium,Southeast,In-Store,36.0,Y
+C01250,2022-10-14,Premium,Southeast,Mobile App,44.0,Y
+C01251,2024-10-07,Premium,Northeast,Online,38.0,Y
+C01252,2024-02-17,Loyal,West,In-Store,20.0,N
+C01253,2022-12-11,Premium,West,Online,41.0,Y
+C01254,2023-10-04,Loyal,Northeast,Online,18.0,Y
+C01255,2023-01-17,Loyal,Southeast,In-Store,27.0,N
+C01256,2023-11-21,Premium,Southeast,Online,34.0,Y
+C01257,2025-06-30,Regular,Southeast,Online,33.0,Y
+C01258,2024-12-15,Budget,Midwest,Mobile App,18.0,N
+C01259,2023-04-02,Regular,Southwest,Online,54.0,N
+C01260,2024-09-09,Regular,West,In-Store,58.0,N
+C01261,2022-03-24,Regular,Southwest,Online,65.0,N
+C01262,2025-01-27,Regular,Midwest,Online,52.0,Y
+C01263,2022-05-29,Loyal,Southwest,Online,,Y
+C01264,2025-03-25,Loyal,Southeast,In-Store,33.0,Y
+C01265,2022-07-09,Premium,Midwest,In-Store,32.0,Y
+C01266,2024-06-01,Regular,Midwest,Online,62.0,Y
+C01267,2022-09-20,Budget,Northeast,Online,37.0,N
+C01268,2025-01-08,Budget,Southeast,Mobile App,53.0,Y
+C01269,2023-02-04,Regular,Southeast,Online,52.0,Y
+C01270,2024-02-03,Budget,West,Mobile App,40.0,Y
+C01271,2023-09-01,Budget,Southeast,Online,21.0,Y
+C01272,2024-02-24,Loyal,Southeast,In-Store,37.0,Y
+C01273,2022-04-11,Premium,Southeast,Online,40.0,Y
+C01274,2024-03-30,Regular,Southwest,Mobile App,53.0,Y
+C01275,2025-05-29,Budget,Northeast,In-Store,38.0,Y
+C01276,2024-03-30,Regular,West,Online,23.0,N
+C01277,2023-02-24,Budget,West,Online,50.0,N
+C01278,2022-05-04,Loyal,Midwest,In-Store,35.0,Y
+C01279,2023-02-26,Regular,Southwest,In-Store,18.0,N
+C01280,2025-06-08,Regular,Northeast,Online,42.0,Y
+C01281,2024-12-22,Regular,Southeast,Online,44.0,Y
+C01282,2024-02-07,Budget,Southwest,Mobile App,28.0,Y
+C01283,2023-04-28,Regular,Northeast,Online,36.0,Y
+C01284,2023-06-03,Premium,Southeast,In-Store,46.0,N
+C01285,2022-06-04,Regular,Midwest,Online,42.0,Y
+C01286,2022-04-02,Budget,Southeast,Mobile App,19.0,N
+C01287,2024-09-08,Regular,West,Mobile App,53.0,Y
+C01288,2023-03-31,Regular,Northeast,Mobile App,58.0,Y
+C01289,2023-08-21,Premium,Southwest,Online,32.0,N
+C01290,2023-05-25,Regular,Midwest,Mobile App,18.0,Y
+C01291,2025-04-21,Regular,Southwest,Online,47.0,Y
+C01292,2023-01-21,Regular,Southeast,In-Store,30.0,Y
+C01293,2023-02-09,Regular,Midwest,In-Store,44.0,Y
+C01294,2022-09-03,Regular,West,Online,64.0,Y
+C01295,2024-01-12,Regular,Midwest,Mobile App,19.0,Y
+C01296,2023-10-23,Regular,Southeast,Online,28.0,Y
+C01297,2023-10-12,Premium,Midwest,In-Store,36.0,Y
+C01298,2024-06-19,Regular,Southwest,In-Store,54.0,Y
+C01299,2022-03-06,Loyal,Midwest,In-Store,75.0,Y
+C01300,2024-11-02,Regular,West,Online,41.0,Y
+C01301,2022-08-01,Loyal,Southeast,Online,18.0,Y
+C01302,2022-08-30,Premium,Midwest,Mobile App,34.0,Y
+C01303,2023-05-08,Regular,Southwest,Online,29.0,Y
+C01304,2025-05-21,Premium,Southwest,Online,47.0,Y
+C01305,2022-12-04,Budget,West,Online,43.0,Y
+C01306,2022-06-22,Loyal,West,Online,25.0,Y
+C01307,2023-11-03,Regular,Southeast,Mobile App,28.0,Y
+C01308,2022-06-13,Budget,Northeast,Online,,Y
+C01309,2023-04-10,Regular,Northeast,In-Store,35.0,Y
+C01310,2024-09-21,Loyal,Southwest,Online,37.0,Y
+C01311,2023-05-12,Budget,West,online,39.0,Y
+C01312,2023-12-01,Regular,Northeast,Online,53.0,Y
+C01313,2023-01-30,Premium,Northeast,Online,33.0,Y
+C01314,2023-12-04,Premium,Northeast,Online,31.0,Y
+C01315,2022-11-04,Regular,West,In-Store,22.0,N
+C01316,2022-07-02,Budget,Southeast,Online,35.0,N
+C01317,2023-09-21,Budget,Southeast,Online,41.0,N
+C01318,2023-05-25,Regular,Midwest,Online,18.0,N
+C01319,2023-06-30, regular,West,Online,34.0,Y
+C01320,2023-09-16,Loyal,Southwest,Mobile App,52.0,Y
+C01321,2023-08-17, regular,Midwest,In-Store,46.0,Y
+C01322,2024-01-14,Regular,Northeast,Online,42.0,Y
+C01323,2025-06-04,Budget,Midwest,Online,45.0,Y
+C01324,2023-07-08,Budget,Southwest,Mobile App,31.0,N
+C01325,2022-01-21,Regular,West,Online,30.0,N
+C01326,2023-07-08,Regular,Northeast,Mobile App,53.0,Y
+C01327,2023-02-01,Regular,Northeast,Online,48.0,Y
+C01328,2023-09-17,Loyal,Northeast,Mobile App,29.0,Y
+C01329,2022-04-15,Regular,,Mobile App,18.0,N
+C01330,2022-07-11,Loyal,West,In-Store,29.0,N
+C01331,2022-01-17,Loyal,Northeast,Online,45.0,N
+C01332,2025-02-17,Regular,Midwest,Online,30.0,Y
+C01333,2023-01-28,Premium,Southeast,Online,,Y
+C01334,2023-03-01,Regular,Northeast,Online,55.0,Y
+C01335,2022-05-09,Budget,Midwest,Online,37.0,Y
+C01336,2025-02-27,Premium,Southeast,Online,41.0,N
+C01337,2023-07-26,Budget,Southeast,In-Store,46.0,N
+C01338,2022-01-29,Regular,Southwest,In-Store,25.0,Y
+C01339,2025-01-25,Premium,Midwest,Online,29.0,Y
+C01340,2024-10-30,Budget,Northeast,Online,47.0,Y
+C01341,2022-08-30,Budget,West,Mobile App,38.0,N
+C01342,2022-08-20,Loyal,Midwest,In-Store,39.0,Y
+C01343,2024-02-28,Regular,Southwest,In-Store,,Y
+C01344,2023-12-16,Budget,Northeast,Online,50.0,Y
+C01345,2024-01-29,Regular,Northeast,Online,43.0,Y
+C01346,2024-03-12,Regular,Northeast,Online,43.0,N
+C01347,2024-02-15,Regular,Northeast,Online,53.0,Y
+C01348,2023-12-27,Loyal,Southeast,Mobile App,,Y
+C01349,2022-07-19,Regular,West,In-Store,65.0,Y
+C01350,2024-08-02,Regular,Midwest,Online,31.0,Y
+C01351,2022-03-20,Premium,Southeast,Mobile App,68.0,N
+C01352,2024-08-13,Loyal,Midwest,Online,25.0,Y
+C01353,2024-05-05,Budget,Northeast,Mobile App,61.0,Y
+C01354,2025-04-11,Budget,Midwest,Mobile App,30.0,N
+C01355,2023-04-12,Budget,Midwest,Online,37.0,Y
+C01356,2023-08-04,Regular,Southwest,Online,38.0,Y
+C01357,2024-07-28,Regular,West,In-Store,28.0,Y
+C01358,2023-03-25,Regular,Southeast,In-Store,39.0,Y
+C01359,2022-03-28,Loyal,Midwest,In-Store,28.0,Y
+C01360,2022-04-11,Premium,West,Mobile App,23.0,N
+C01361,2024-10-28,Budget,Southwest,In-Store,38.0,Y
+C01362,2024-04-24,Regular,Midwest,Online,57.0,Y
+C01363,2025-05-08,Regular,West,Online,35.0,Y
+C01364,2022-03-28,Regular,Northeast,In-Store,49.0,Y
+C01365,2022-02-12,Regular,West,Online,28.0,Y
+C01366,2023-02-12,Loyal,Northeast,In-Store,23.0,Y
+C01367,2023-10-26,Regular,Midwest,Online,43.0,Y
+C01368,2024-11-06,Regular,West,Online,59.0,Y
+C01369,2022-05-28,Premium,Southeast,Online,41.0,Y
+C01370,2022-10-04,Regular,Midwest,In-Store,48.0,Y
+C01371,2022-08-20,Budget,Southeast,Online,56.0,Y
+C01372,2023-01-01,Regular,West,In-Store,38.0,Y
+C01373,2025-06-05,Budget,West,In-Store,36.0,Y
+C01374,2023-03-12,Loyal,Southwest,In-Store,44.0,N
+C01375,2023-02-03,Budget,Midwest,In-Store,46.0,Y
+C01376,2025-05-19,Regular,West,Online,21.0,Y
+C01377,2023-05-14,Regular,Southeast,In-Store,42.0,Y
+C01378,2023-06-24,Loyal,Midwest,Online,38.0,N
+C01379,2023-07-17,Budget,Southwest,Online,29.0,N
+C01380,2023-03-18,Budget,Southeast,Online,37.0,Y
+C01381,2024-02-12,Budget,Northeast,In-Store,24.0,Y
+C01382,2022-12-16,Budget,Northeast,Mobile App,20.0,N
+C01383,2023-06-04,Budget,Northeast,In-Store,39.0,Y
+C01384,2022-05-18,Regular,West,In-Store,49.0,Y
+C01385,2024-09-18,Budget,Midwest,In-Store,34.0,N
+C01386,2023-01-03,Budget,Southwest,Online,26.0,Y
+C01387,2025-05-28,Premium,Southeast,Mobile App,28.0,Y
+C01388,2025-05-31,Regular,Southeast,Online,45.0,N
+C01389,2022-12-26,Regular,Southeast,Mobile App,58.0,Y
+C01390,2024-07-09,Regular,Southwest,In-Store,47.0,Y
+C01391,2022-11-25,Loyal,Midwest,In-Store,54.0,Y
+C01392,2024-08-19,Budget,West,In-Store,25.0,Y
+C01393,2023-04-08,Loyal,Southwest,Online,37.0,Y
+C01394,2024-08-03,Premium,Midwest,In-Store,50.0,Y
+C01395,2024-08-20,Budget,Midwest,Online,21.0,Y
+C01396,2024-04-15,Loyal,West,In-Store,,N
+C01397,2022-06-18,Budget,Southwest,In-Store,49.0,Y
+C01398,2022-08-05,Budget,Northeast,Mobile App,41.0,N
+C01399,2023-01-13,Premium,Midwest,In-Store,26.0,N
+C01400,2022-04-29,Premium,Southwest,Online,18.0,Y
+C01401,2022-07-09,Regular,Southwest,Online,54.0,Y
+C01402,2024-02-06,Budget,Northeast,In-Store,18.0,N
+C01403,2023-01-05,Regular,West,Online,46.0,Y
+C01404,2022-05-29,Premium,West,Online,32.0,Y
+C01405,2023-10-14,Regular,Southeast,Mobile App,51.0,Y
+C01406,2024-02-09,Regular,West,In-Store,25.0,N
+C01407,2023-01-09,Budget,Northeast,In-Store,69.0,Y
+C01408,2024-02-20,Budget,Northeast,Online,43.0,Y
+C01409,2022-06-09,Premium,Northeast,In-Store,45.0,N
+C01410,2022-12-17,Regular,Northeast,Online,29.0,N
+C01411,2024-06-10,Loyal,West,In-Store,36.0,Y
+C01412,2025-06-03,Regular,Northeast,Online,37.0,Y
+C01413,2023-06-07,Premium,Southeast,Mobile App,60.0,Y
+C01414,2023-06-06,Regular,Northeast,In-Store,43.0,Y
+C01415,2024-02-22,Regular,Southeast,Online,45.0,Y
+C01416,2022-09-30,Budget,Northeast,In-Store,44.0,Y
+C01417,2024-07-24,Regular,Southwest,In-Store,46.0,Y
+C01418,2022-07-02,Regular,Northeast,Online,21.0,N
+C01419,2023-05-03,Loyal,West,In-Store,63.0,Y
+C01420,2024-04-25,Regular,West,Online,27.0,Y
+C01421,2022-05-04,Budget,Northeast,Mobile App,38.0,N
+C01422,2024-09-11,Budget,West,Mobile App,56.0,Y
+C01423,2024-02-29,Budget,Northeast,Online,61.0,Y
+C01424,2023-02-18,Regular,Southeast,Mobile App,48.0,N
+C01425,2025-04-10,Premium,Northeast,Online,32.0,Y
+C01426,2023-11-17,Loyal,Southeast,Online,40.0,Y
+C01427,2022-04-23,Budget,Midwest,Mobile App,40.0,Y
+C01428,2024-06-06,Regular,Southwest,In-Store,40.0,Y
+C01429,2022-05-02,Regular,Southeast,Online,23.0,Y
+C01430,2025-05-30,Regular,Southwest,Online,53.0,N
+C01431,2022-02-08,Regular,Northeast,Online,40.0,Y
+C01432,2023-05-12,Regular,Southwest,Mobile App,29.0,Y
+C01433,2024-02-19,Regular,Southeast,Online,32.0,Y
+C01434,2025-06-10,Budget,Northeast,Online,41.0,N
+C01435,2024-07-31,Premium,Northeast,In-Store,21.0,N
+C01436,2022-05-29,Budget,Northeast,Online,49.0,Y
+C01437,2024-10-18,Regular,Midwest,Online,41.0,N
+C01438,2023-10-23,Regular,West,Online,57.0,N
+C01439,2022-10-29,Regular,Northeast,Online,39.0,Y
+C01440,2022-08-26,Loyal,Southwest,Online,25.0,Y
+C01441,2023-10-09,Loyal,Southwest,Mobile App,24.0,Y
+C01442,2023-10-25,Premium,West,Online,33.0,N
+C01443,2022-08-24,Regular,Southeast,In-Store,35.0,N
+C01444,2022-07-22,Premium,Midwest,In-Store,31.0,Y
+C01445,2022-09-13,Regular,West,Mobile App,40.0,Y
+C01446,2023-08-21,Premium,Southwest,Mobile App,31.0,Y
+C01447,2023-10-24,Regular,Southeast,Online,41.0,N
+C01448,2022-08-23,Loyal,Northeast,Online,32.0,N
+C01449,2023-06-18,Loyal,Southeast,Online,46.0,Y
+C01450,2024-05-09,Premium,Midwest,Online,34.0,N
+C01451,2024-02-09,Budget,Southwest,In-Store,53.0,Y
+C01452,2023-06-25,Budget,Northeast,In-Store,46.0,N
+C01453,2022-08-01,Premium,Midwest,Mobile App,40.0,Y
+C01454,2023-04-08,Budget,Midwest,Online,36.0,Y
+C01455,2023-03-12,Premium,Midwest,Mobile App,20.0,N
+C01456,2022-10-10,Regular,Southwest,Online,55.0,Y
+C01457,2022-03-29,Regular,,In-Store,30.0,N
+C01458,2024-12-03, regular,Southeast,Online,39.0,Y
+C01459,2023-04-06,Regular,West,In-Store,42.0,N
+C01460,2022-10-05,Regular,Northeast,online,36.0,N
+C01461,2023-02-25,Regular,Northeast,Mobile App,54.0,Y
+C01462,2023-11-27, regular,Southeast,Mobile App,23.0,Y
+C01463,2023-05-30,Premium,Northeast,Mobile App,59.0,Y
+C01464,2023-12-04,Budget,Southeast,Online,46.0,Y
+C01465,2022-01-19,Loyal,Northeast,Mobile App,35.0,Y
+C01466,2022-01-23,Loyal,West,In-Store,35.0,N
+C01467,2023-02-17,Regular,Northeast,Online,18.0,N
+C01468,2024-11-19,Premium,Southwest,Online,28.0,N
+C01469,2022-04-18,Regular,Northeast,Online,34.0,Y
+C01470,2025-02-25,Regular,West,Online,40.0,N
+C01471,2025-06-06,Loyal,Southwest,In-Store,53.0,N
+C01472,2025-02-08,Budget,Northeast,Mobile App,62.0,Y
+C01473,2022-05-16,Budget,Southwest,Online,41.0,Y
+C01474,2022-12-28,Regular,Midwest,In-Store,40.0,Y
+C01475,2025-04-24,Regular,Southwest,Mobile App,32.0,N
+C01476,2022-05-09,Regular,Midwest,Online,18.0,Y
+C01477,2023-05-30,Premium,Southwest,Mobile App,31.0,N
+C01478,2023-03-25,Regular,Southwest,In-Store,36.0,Y
+C01479,2025-02-01,Regular,Southeast,In-Store,50.0,N
+C01480,2025-06-01,Budget,Northeast,Online,44.0,Y
+C01481,2024-05-23,Regular,West,In-Store,41.0,Y
+C01482,2023-04-18,Budget,Southeast,Online,31.0,Y
+C01483,2024-10-30,Budget,Midwest,In-Store,18.0,Y
+C01484,2022-10-29,Regular,Northeast,Online,18.0,N
+C01485,2022-08-19,Budget,Midwest,Mobile App,18.0,N
+C01486,2024-07-11,Regular,West,Online,34.0,Y
+C01487,2024-12-25,Budget,Southeast,Online,50.0,Y
+C01488,2024-07-25,Loyal,Southeast,In-Store,50.0,Y
+C01489,2022-04-22,Loyal,Southwest,Online,48.0,Y
+C01490,2024-11-02,Regular,West,In-Store,32.0,Y
+C01491,2023-05-15,Loyal,Southeast,Mobile App,52.0,N
+C01492,2024-07-20,Premium,Southeast,In-Store,27.0,N
+C01493,2023-08-21,Regular,West,Online,48.0,Y
+C01494,2022-08-22,Budget,Southwest,In-Store,18.0,Y
+C01495,2023-08-25,Premium,Northeast,In-Store,24.0,Y
+C01496,2022-11-10,Premium,Northeast,Mobile App,58.0,Y
+C01497,2023-07-20,Regular,Midwest,Online,36.0,Y
+C01498,2024-11-01,Premium,,In-Store,30.0,Y
+C01499,2022-07-28,Regular,Southeast,In-Store,51.0,Y
+C01500,2024-11-03,Premium,West,Online,53.0,Y
+C01501,2024-11-09,Loyal,Northeast,Online,33.0,Y
+C01502,2023-08-10,Regular,Southwest,Online,41.0,Y
+C01503,2024-10-11,Premium,Southeast,Mobile App,40.0,Y
+C01504,2024-12-29,Regular,Southwest,Mobile App,18.0,N
+C01505,2025-05-19,Regular,Southwest,In-Store,21.0,N
+C01506,2025-01-29,Premium,Northeast,Online,49.0,N
+C01507,2023-11-29,Budget,Midwest,Online,28.0,Y
+C01508,2022-05-12,Regular,Northeast,Mobile App,44.0,Y
+C01509,2025-03-01,Budget,West,Mobile App,41.0,Y
+C01510,2024-11-09,Regular,West,Mobile App,53.0,Y
+C01511,2023-06-20,Regular,Southeast,In-Store,22.0,N
+C01512,2024-10-10,Premium,Midwest,Online,43.0,Y
+C01513,2022-08-15, regular,Southeast,Mobile App,37.0,Y
+C01514,2025-03-23,Regular,Southwest,Online,29.0,Y
+C01515,2024-04-01,Budget,Southeast,Online,28.0,Y
+C01516,2024-05-20,Premium,Southeast,In-Store,41.0,N
+C01517,2023-02-09,Loyal,,Online,46.0,Y
+C01518,2022-07-21,Loyal,Northeast,Online,39.0,Y
+C01519,2022-02-07,Premium,Southwest,Online,39.0,Y
+C01520,2024-07-30,Premium,Northeast,Online,32.0,N
+C01521,2022-07-07,Budget,Southwest,Mobile App,33.0,Y
+C01522,2024-12-16,Regular,Northeast,Online,28.0,Y
+C01523,2024-07-29,Regular,Southeast,Online,32.0,Y
+C01524,2024-11-09,Premium,Midwest,Online,,N
+C01525,2022-09-30,Loyal,West,Online,46.0,Y
+C01526,2025-02-16,Budget,Southwest,Online,23.0,Y
+C01527,2023-08-06,Loyal,Northeast,In-Store,27.0,N
+C01528,2023-05-31,Regular,Northeast,Online,29.0,N
+C01529,2025-05-29,Regular,West,In-Store,37.0,Y
+C01530,2023-06-10,Budget,Midwest,Mobile App,18.0,N
+C01531,2022-12-02,Budget,Northeast,In-Store,27.0,Y
+C01532,2023-11-29,Regular,West,Online,21.0,N
+C01533,2024-12-14,Regular,West,Online,43.0,Y
+C01534,2023-05-15,Budget,West,Mobile App,38.0,Y
+C01535,2024-06-18,Regular,West,In-Store,32.0,N
+C01536,2024-02-05,Premium,West,Mobile App,25.0,N
+C01537,2023-06-20,Premium,Northeast,Mobile App,33.0,Y
+C01538,2022-06-11,Loyal,Northeast,Mobile App,31.0,N
+C01539,2023-08-17,Regular,Midwest,Mobile App,58.0,Y
+C01540,2022-06-08,Regular,Midwest,In-Store,50.0,N
+C01541,2025-04-26,Premium,Midwest,Online,30.0,Y
+C01542,2022-03-01,Regular,Southeast,Mobile App,40.0,Y
+C01543,2024-07-03,Budget,Southeast,In-Store,49.0,N
+C01544,2022-07-30,Regular,Midwest,Online,30.0,Y
+C01545,2023-02-10,Regular,Northeast,In-Store,21.0,Y
+C01546,2023-10-26,Regular,Southeast,In-Store,18.0,Y
+C01547,2025-02-06,Regular,Midwest,Mobile App,53.0,Y
+C01548,2025-01-04,Regular,Southwest,In-Store,36.0,N
+C01549,2023-06-26,Budget,Northeast,Online,41.0,Y
+C01550,2024-09-24,Regular,Midwest,Mobile App,31.0,Y
+C01551,2025-02-14,Regular,Southwest,Mobile App,23.0,N
+C01552,2024-07-15,Regular,Midwest,In-Store,25.0,Y
+C01553,2024-05-17,Budget,Northeast,Online,22.0,Y
+C01554,2022-01-19,Regular,Midwest,Online,48.0,Y
+C01555,2023-03-08,Regular,Southeast,In-Store,56.0,N
+C01556,2024-01-10,Regular,West,Online,38.0,Y
+C01557,2022-07-02,Regular,Northeast,Online,20.0,Y
+C01558,2022-04-23,Regular,Southwest,In-Store,44.0,Y
+C01559,2025-04-21,Loyal,Northeast,In-Store,53.0,N
+C01560,2023-04-26,Regular,Midwest,Online,50.0,Y
+C01561,2025-03-15,Regular,Midwest,Online,38.0,N
+C01562,2024-04-10,Regular,Southeast,Online,35.0,Y
+C01563,2025-02-10,Regular,Midwest,In-Store,38.0,N
+C01564,2024-02-02,Regular,Northeast,Online,53.0,Y
+C01565,2023-04-21,Regular,Southeast,Online,47.0,Y
+C01566,2024-02-02,Premium,Midwest,In-Store,33.0,N
+C01567,2024-08-28,Budget,Southeast,Mobile App,33.0,Y
+C01568,2024-10-16,Budget,West,In-Store,32.0,Y
+C01569,2025-02-15,Regular,Midwest,Online,25.0,Y
+C01570,2022-06-10,Premium,Southeast,Online,54.0,N
+C01571,2023-02-05,Budget,Northeast,Mobile App,29.0,Y
+C01572,2022-07-17,Loyal,Midwest,Online,44.0,Y
+C01573,2023-10-22,Regular,Southwest,In-Store,30.0,N
+C01574,2024-12-06,Loyal,Southeast,Online,32.0,Y
+C01575,2023-02-03,Loyal,West,Online,37.0,N
+C01576,2022-03-19,Regular,Southeast,Mobile App,45.0,Y
+C01577,2022-05-04,Budget,West,In-Store,35.0,N
+C01578,2022-03-16,Budget,Northeast,In-Store,24.0,Y
+C01579,2022-05-17,Budget,West,Online,,Y
+C01580,2023-08-25,Premium,Midwest,Online,29.0,Y
+C01581,2024-04-16,Budget,Southeast,In-Store,57.0,Y
+C01582,2023-05-15,Regular,Southeast,In-Store,35.0,Y
+C01583,2022-05-18,Regular,Southeast,Online,30.0,Y
+C01584,2022-02-19,Loyal,West,Online,62.0,Y
+C01585,2024-08-30,Budget,Northeast,Online,47.0,Y
+C01586,2022-09-11,Budget,Northeast,Mobile App,27.0,Y
+C01587,2023-12-11,Budget,Midwest,In-Store,29.0,Y
+C01588,2023-07-17,Loyal,Midwest,Mobile App,44.0,Y
+C01589,2024-01-27,Regular,Midwest,Online,39.0,Y
+C01590,2023-07-01,Budget,Southwest,Mobile App,49.0,Y
+C01591,2024-07-10,Budget,Southeast,Online,30.0,Y
+C01592,2023-08-04,Regular,West,In-Store,46.0,N
+C01593,2022-02-18,Budget,Southeast,Mobile App,18.0,N
+C01594,2024-07-05,Loyal,Northeast,Online,36.0,Y
+C01595,2025-01-02,Premium,Southwest,Online,31.0,Y
+C01596,2023-12-05,Regular,Southwest,Online,33.0,N
+C01597,2022-09-18,Premium,Southeast,Online,37.0,Y
+C01598,2022-12-22,Budget,Midwest,In-Store,52.0,N
+C01599,2023-09-30,Premium,Northeast,In-Store,24.0,Y
+C01600,2024-01-13,Premium,Midwest,In-Store,18.0,N
+C01601,2024-10-06,Regular,West,In-Store,26.0,Y
+C01602,2024-07-19,Premium,Northeast,In-Store,,Y
+C01603,2023-10-03,Regular,Southeast,Online,18.0,Y
+C01604,2024-03-02,Regular,West,Online,31.0,N
+C01605,2023-09-04,Budget,West,Mobile App,48.0,N
+C01606,2024-03-19,Regular,Midwest,Online,37.0,Y
+C01607,2025-04-20,Premium,Midwest,In-Store,52.0,Y
+C01608,2023-11-17,Loyal,Midwest,Online,18.0,Y
+C01609,2022-07-07,Regular,West,In-Store,34.0,Y
+C01610,2024-09-11,Premium,West,In-Store,54.0,Y
+C01611,2023-07-02,Premium,Northeast,Online,24.0,Y
+C01612,2023-12-26,Budget,Southeast,Online,50.0,N
+C01613,2024-07-14,Regular,Midwest,In-Store,35.0,Y
+C01614,2024-05-25,Budget,Southwest,Online,43.0,Y
+C01615,2023-09-10,Regular,Midwest,Online,53.0,Y
+C01616,2023-02-18,Loyal,Southwest,In-Store,43.0,N
+C01617,2025-05-28,Budget,West,Online,31.0,N
+C01618,2024-06-21,Premium,Northeast,Mobile App,45.0,N
+C01619,2022-06-12,Regular,,In-Store,30.0,N
+C01620,2025-05-28,Regular,Southeast,Online,41.0,N
+C01621,2022-09-27,Regular,Southeast,In-Store,23.0,Y
+C01622,2023-09-24,Regular,Northeast,In-Store,38.0,Y
+C01623,2024-06-24,Budget,Northeast,Online,52.0,N
+C01624,2025-04-20,Budget,Southwest,Online,34.0,Y
+C01625,2022-07-24,Budget,West,Online,51.0,Y
+C01626,2023-08-05,Regular,Midwest,Online,75.0,Y
+C01627,2024-04-20,Budget,Midwest,Online,,N
+C01628,2025-06-05,Premium,Southeast,Online,45.0,N
+C01629,2023-08-19,Regular,Southwest,Online,44.0,Y
+C01630,2022-09-07,Regular,Southwest,In-Store,41.0,Y
+C01631,2024-05-24,Regular,Midwest,In-Store,47.0,N
+C01632,2022-07-15,Regular,Northeast,In-Store,35.0,Y
+C01633,2023-11-21,Loyal,Northeast,In-Store,30.0,Y
+C01634,2024-12-29,Budget,Northeast,Mobile App,20.0,N
+C01635,2023-10-01,Budget,,In-Store,34.0,Y
+C01636,2023-11-03,Premium,West,In-Store,49.0,Y
+C01637,2025-05-11,Budget,West,Online,27.0,Y
+C01638,2025-03-17,Budget,Midwest,Mobile App,41.0,Y
+C01639,2024-08-01,Regular,Southwest,Online,37.0,N
+C01640,2022-07-18,Budget,West,Online,31.0,Y
+C01641,2023-05-07,Regular,Southeast,In-Store,18.0,Y
+C01642,2024-06-14,Budget,Southeast,Online,54.0,Y
+C01643,2022-05-22,Loyal,West,Online,44.0,Y
+C01644,2022-06-14,Premium,Southeast,In-Store,70.0,N
+C01645,2022-11-10,Regular,West,In-Store,51.0,N
+C01646,2022-01-21,Regular,West,In-Store,54.0,N
+C01647,2025-01-10,Premium,Southwest,Mobile App,18.0,Y
+C01648,2025-02-28,Budget,West,Online,18.0,N
+C01649,2024-09-10,Premium,Southwest,Online,39.0,Y
+C01650,2022-11-01,Premium,Southwest,In-Store,24.0,N
+C01651,2023-01-06,Premium,Southeast,Online,30.0,N
+C01652,2024-05-02,Regular,Northeast,In-Store,68.0,Y
+C01653,2023-01-19,Budget,Southeast,Online,52.0,Y
+C01654,2023-03-21,Regular,Southwest,Online,27.0,Y
+C01655,2023-03-01,Premium,Northeast,In-Store,18.0,Y
+C01656,2022-06-10,Budget,Northeast,In-Store,26.0,N
+C01657,2025-04-16,Premium,Northeast,In-Store,31.0,Y
+C01658,2023-09-21,Budget,Southwest,In-Store,34.0,Y
+C01659,2024-06-13,Budget,West,Online,,Y
+C01660,2023-05-05,Budget,West,Online,52.0,N
+C01661,2024-10-13,Budget,Midwest,Online,29.0,Y
+C01662,2022-11-23,Regular,West,Online,46.0,Y
+C01663,2023-08-21,Budget,Southwest,Online,39.0,Y
+C01664,2024-10-11,Loyal,Midwest,In-Store,49.0,Y
+C01665,2022-10-16,Regular,Midwest,Online,35.0,Y
+C01666,2023-08-16,Budget,Northeast,In-Store,27.0,N
+C01667,2023-07-27,Regular,West,Mobile App,31.0,Y
+C01668,2022-01-28,Loyal,Southeast,Online,31.0,Y
+C01669,2024-08-11,Premium,Midwest,Online,63.0,Y
+C01670,2022-02-12,Budget,Southwest,Online,,Y
+C01671,2023-02-27,Loyal,Southeast,In-Store,38.0,Y
+C01672,2022-06-26,Premium,Southeast,Online,,Y
+C01673,2023-06-13,Budget,Midwest,Online,38.0,Y
+C01674,2024-08-23,Budget,Northeast,In-Store,51.0,Y
+C01675,2022-07-17,Regular,Southwest,Online,34.0,Y
+C01676,2023-09-02,Budget,Midwest,In-Store,32.0,N
+C01677,2024-04-21,Premium,Midwest,In-Store,26.0,Y
+C01678,2024-05-02,Regular,Midwest,In-Store,60.0,N
+C01679,2022-01-22,Loyal,Midwest,Online,37.0,N
+C01680,2025-02-09,Regular,Midwest,Mobile App,24.0,Y
+C01681,2024-12-16,Budget,Southwest,In-Store,40.0,N
+C01682,2024-12-25,Budget,Southwest,Online,30.0,Y
+C01683,2024-04-21,Regular,Southwest,Online,33.0,Y
+C01684,2022-04-08,Premium,West,Online,42.0,Y
+C01685,2025-03-13,Premium,Northeast,Mobile App,56.0,Y
+C01686,2023-03-11,Budget,Southeast,Mobile App,39.0,Y
+C01687,2023-09-29,Budget,West,In-Store,29.0,Y
+C01688,2025-01-14,Budget,Southeast,Mobile App,32.0,Y
+C01689,2023-08-11,Regular,Northeast,Online,46.0,Y
+C01690,2022-12-10,Budget,Midwest,Online,18.0,Y
+C01691,2023-07-25,Regular,Northeast,Mobile App,25.0,Y
+C01692,2023-09-03,Regular,Northeast,In-Store,41.0,Y
+C01693,2022-08-31,Loyal,West,online,18.0,Y
+C01694,2023-07-15,Regular,Midwest,In-Store,34.0,Y
+C01695,2024-08-17,Budget,Southeast,Mobile App,32.0,Y
+C01696,2022-02-01,Regular,West,In-Store,49.0,N
+C01697,2023-01-26,Regular,West,Mobile App,35.0,N
+C01698,2022-10-04,Regular,Midwest,In-Store,52.0,Y
+C01699,2023-06-16,Loyal,Southeast,Online,39.0,N
+C01700,2025-03-23,Premium,West,Mobile App,59.0,Y
+C01701,2023-01-18,Budget,Southwest,Online,21.0,Y
+C01702,2024-12-27,Budget,Southwest,Mobile App,57.0,N
+C01703,2024-06-02,Regular,West,Online,33.0,Y
+C01704,2022-08-02,Premium,Southwest,In-Store,56.0,N
+C01705,2023-01-11,Budget,Southeast,In-Store,52.0,Y
+C01706,2024-01-14,Regular,Southwest,Online,18.0,Y
+C01707,2022-08-01,Regular,Southeast,Online,44.0,Y
+C01708,2022-03-20,Budget,Southwest,Mobile App,50.0,Y
+C01709,2023-09-20,Regular,,Mobile App,54.0,Y
+C01710,2023-08-27,Loyal,Northeast,Online,24.0,Y
+C01711,2024-02-21,Budget,Midwest,Mobile App,45.0,N
+C01712,2024-09-27,Regular,Southeast,Mobile App,40.0,Y
+C01713,2023-11-11,Regular,Southeast,In-Store,43.0,Y
+C01714,2022-02-27,Loyal,Midwest,Online,50.0,Y
+C01715,2024-11-15,Loyal,Southeast,Mobile App,52.0,N
+C01716,2024-05-30,Regular,Southwest,In-Store,30.0,Y
+C01717,2023-03-23,Premium,,Mobile App,41.0,Y
+C01718,2022-03-07,Regular,Southwest,Mobile App,38.0,N
+C01719,2024-12-03,Regular,West,Mobile App,35.0,Y
+C01720,2025-01-25,Budget,Southwest,In-Store,36.0,Y
+C01721,2024-10-08,Budget,Midwest,Online,40.0,N
+C01722,2022-08-15,Regular,West,Online,31.0,N
+C01723,2024-02-13,Regular,Southeast,Online,49.0,Y
+C01724,2023-11-10,Budget,Northeast,Online,53.0,Y
+C01725,2023-08-24,Loyal,Southeast,In-Store,28.0,N
+C01726,2023-01-14,Budget,Northeast,In-Store,54.0,Y
+C01727,2025-04-16,Budget,West,Mobile App,28.0,N
+C01728,2023-12-10,Regular,Northeast,Online,49.0,Y
+C01729,2022-11-03,Premium,Southwest,In-Store,,Y
+C01730,2024-02-18,Budget,Southwest,Online,37.0,Y
+C01731,2023-05-19,Regular,Northeast,Online,28.0,N
+C01732,2022-09-25,Loyal,Midwest,Online,31.0,N
+C01733,2022-01-08,Budget,Northeast,In-Store,42.0,Y
+C01734,2023-05-23,Regular,Midwest,Online,62.0,N
+C01735,2023-04-21,Premium,Northeast,In-Store,18.0,Y
+C01736,2022-06-13,Budget,West,Online,39.0,Y
+C01737,2023-04-30,Regular,West,Mobile App,37.0,N
+C01738,2024-12-31,Regular,Northeast,Mobile App,33.0,N
+C01739,2023-07-21,Regular,Northeast,Mobile App,37.0,N
+C01740,2024-06-23,Regular,Southwest,Mobile App,31.0,N
+C01741,2023-07-13,Budget,Southeast,Mobile App,53.0,Y
+C01742,2022-08-26,Regular,West,Mobile App,54.0,Y
+C01743,2025-02-01,Budget,Midwest,In-Store,39.0,N
+C01744,2025-05-18,Premium,Southeast,Online,36.0,Y
+C01745,2023-07-08,Regular,West,Online,32.0,Y
+C01746,2024-04-07,Regular,Midwest,Online,39.0,N
+C01747,2023-04-13,Loyal,West,In-Store,60.0,Y
+C01748,2023-01-21,Regular,West,In-Store,37.0,N
+C01749,2024-02-14,Budget,Northeast,Mobile App,28.0,Y
+C01750,2024-04-27,Loyal,Northeast,Mobile App,33.0,N
+C01751,2023-01-22,Budget,West,Online,47.0,Y
+C01752,2024-05-26,Budget,West,In-Store,29.0,Y
+C01753,2022-09-16,Premium,Northeast,Mobile App,38.0,Y
+C01754,2022-10-10,Regular,West,Online,44.0,Y
+C01755,2022-02-09,Regular,Midwest,In-Store,30.0,Y
+C01756,2023-05-01,Budget,Southeast,Online,18.0,Y
+C01757,2024-07-17,Regular,West,In-Store,25.0,Y
+C01758,2022-08-08,Budget,Northeast,Online,28.0,Y
+C01759,2025-02-26,Loyal,West,Mobile App,35.0,Y
+C01760,2024-10-11,Budget,Northeast,In-Store,39.0,Y
+C01761,2024-10-20,Loyal,Midwest,Online,48.0,N
+C01762,2023-09-05,Regular,Northeast,Online,23.0,Y
+C01763,2024-07-16,Premium,Midwest,In-Store,46.0,N
+C01764,2023-11-19,Premium,Southwest,Mobile App,34.0,N
+C01765,2023-09-05,Regular,Northeast,In-Store,18.0,N
+C01766,2022-09-17,Regular,Midwest,In-Store,38.0,N
+C01767,2024-09-16,Budget,Midwest,Online,54.0,Y
+C01768,2024-08-23,Budget,Northeast,In-Store,49.0,N
+C01769,2023-01-01,Premium,West,In-Store,37.0,Y
+C01770,2023-06-28,Premium,Southeast,online,52.0,N
+C01771,2023-10-11,Regular,Midwest,Online,40.0,N
+C01772,2024-03-24,Budget,Midwest,In-Store,50.0,Y
+C01773,2024-11-05,Regular,Midwest,In-Store,18.0,Y
+C01774,2025-02-26,Regular,Northeast,Mobile App,23.0,Y
+C01775,2023-07-29,Regular,Southeast,Mobile App,47.0,Y
+C01776,2025-02-06,Premium,Midwest,In-Store,56.0,Y
+C01777,2024-10-09,Loyal,Southwest,In-Store,43.0,Y
+C01778,2023-11-01,Budget,West,Online,32.0,Y
+C01779,2022-09-26,Regular,Midwest,Mobile App,28.0,Y
+C01780,2025-03-31,Regular,Northeast,Online,34.0,N
+C01781,2024-07-12,Regular,Southeast,Online,53.0,N
+C01782,2025-01-30,Budget,Northeast,Online,34.0,Y
+C01783,2022-09-04,Budget,Northeast,Mobile App,51.0,Y
+C01784,2022-05-11,Loyal,Southeast,Online,46.0,Y
+C01785,2022-12-19,Regular,Northeast,Online,59.0,Y
+C01786,2022-07-15,Regular,Northeast,In-Store,40.0,N
+C01787,2024-07-18,Loyal,Northeast,Online,37.0,Y
+C01788,2024-10-18,Premium,Northeast,Online,51.0,Y
+C01789,2023-10-07,Budget,Northeast,Mobile App,27.0,N
+C01790,2022-08-15,Regular,Northeast,Mobile App,33.0,N
+C01791,2023-12-02,Regular,Southeast,Online,18.0,Y
+C01792,2022-09-22,Premium,Midwest,Mobile App,23.0,Y
+C01793,2023-10-08,Premium,Northeast,In-Store,61.0,Y
+C01794,2022-07-30,Regular,Southeast,Online,46.0,N
+C01795,2024-07-31,Regular,Southeast,In-Store,22.0,N
+C01796,2023-04-02,Premium,Northeast,Mobile App,52.0,Y
+C01797,2023-12-26,Budget,Northeast,Online,30.0,Y
+C01798,2025-06-03,Budget,,Online,46.0,N
+C01799,2024-09-08,Regular,Southwest,Mobile App,46.0,N
+C01800,2025-02-28,Budget,Northeast,In-Store,58.0,N
+C01592,2023-08-04,Regular,West,In-Store,46.0,N
+C00944,2025-03-28,Premium,Southeast,Online,32.0,Y
+C00870,2023-05-26,Budget,West,Online,19.0,N
+C00163,2024-08-24,Budget,Southeast,Mobile App,71.0,Y
+C01272,2024-02-24,Loyal,Southeast,In-Store,37.0,Y
+C00071,2022-08-16,Budget,Northeast,Online,36.0,Y
+C00248,2023-12-08,Regular,Southwest,In-Store,42.0,N
+C00323,2025-06-04,Regular,Northeast,In-Store,26.0,N

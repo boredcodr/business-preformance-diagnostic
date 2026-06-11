@@ -1,0 +1,11 @@
+store_id,store_name,region,store_type,open_date
+S001,Brookfield Central,Northeast,Mall,2018-04-15
+S002,Lakeview Plaza,Midwest,Shopping Center,2019-08-20
+S003,Northpoint Market,Northeast,Mall,2020-02-10
+S004,Desert Ridge,southwest,Outlet,2017-11-01
+S005,Westwood Outlet,West,Outlet,2021-06-12
+S006,Riverbend Shops,Southeast,Shopping Center,2016-09-05
+S007,Oak Hills,Midwest,Mall,2019-03-18
+S008,Metro Square,Southeast,urban,2022-01-22
+S009,Pinecrest,Southwest,Shopping Center,2020-07-14
+S010,Bayfront Center,West,Urban,2021-10-03
